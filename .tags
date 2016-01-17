@@ -1,0 +1,1015 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ArrayAccess	.\framework\base\CModel.php	/^	 * This method is required by the interface ArrayAccess.$/;"	i
+ArrayAccess	.\framework\caching\CCache.php	/^Œ`~/;"	i
+ArrayAccess	.\framework\caching\CDummyCache.php	/^	 * This method is required by the interface ArrayAccess.$/;"	i
+ArrayAccess	.\framework\caching\CDummyCache.php	/^®zµΩƒù@{;‡'@ÿ)πˆÊ°D&Úp1¶i,\\R˛<À^6Å2¬BFƒ˜˘t°ÏZ€$/;"	i
+ArrayAccess	.\framework\collections\CList.php	/^	 * This method is required by the interface ArrayAccess.$/;"	i
+ArrayAccess	.\framework\collections\CMap.php	/^	 * This method is required by the interface ArrayAccess.$/;"	i
+ArrayAccess	.\framework\web\CHttpSession.php	/^	 * This method is required by the interface ArrayAccess.$/;"	i
+ArrayAccess	.\framework\web\form\CForm.php	/^	 * This method is required by the interface ArrayAccess.$/;"	i
+BIN_PATH	.\protected\yiic.bat	/^set BIN_PATH=%~dp0$/;"	v
+BaseController.php	/^	public function beginContent($view=null,$data=array())$/;"	f
+CEnumerable	.\framework\base\CComponent.php	/^class CEnumerable$/;"	c
+CMssqlTableSchema	.\framework\db\schema\mssql\CMssqlTableSchema.php	/^class CMssqlTableSchema extends CDbTableSchema$/;"	c
+COutputEvent	.\framework\web\COutputEvent.php	/^class COutputEvent extends CEvent$/;"	c
+ContactForm	.\protected\models\ContactForm.php	/^class ContactForm extends CFormModel$/;"	c
+ControllerGenerator	.\framework\gii\generators\controller\ControllerGenerator.php	/^class ControllerGenerator extends CCodeGenerator$/;"	c
+CrudGenerator	.\framework\gii\generators\crud\CrudGenerator.php	/^class CrudGenerator extends CCodeGenerator$/;"	c
+DefaultController	.\framework\cli\views\shell\module\controllers\DefaultController.php	/^class DefaultController extends Controller$/;"	c
+DefaultController	.\framework\gii\generators\module\templates\default\controllers\DefaultController.php	/^class DefaultController extends Controller$/;"	c
+FormGenerator	.\framework\gii\generators\form\FormGenerator.php	/^class FormGenerator extends CCodeGenerator$/;"	c
+HTMLPurifier_Strategy_RemoveForeignElements	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Strategy_RemoveForeignElements extends HTMLPurifier_Strategy$/;"	c
+HTMLPurifier_Strategy_ValidateAttributes	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Strategy_ValidateAttributes extends HTMLPurifier_Strategy$/;"	c
+HTMLPurifier_TagTransform_Font	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_TagTransform_Font extends HTMLPurifier_TagTransform$/;"	c
+HTMLPurifier_TagTransform_Simple	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_TagTransform_Simple extends HTMLPurifier_TagTransform$/;"	c
+HTMLPurifier_Token_Comment	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Token_Comment extends HTMLPurifier_Token$/;"	c
+HTMLPurifier_Token_Empty	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Token_Empty extends HTMLPurifier_Token_Tag$/;"	c
+HTMLPurifier_Token_End	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Token_End extends HTMLPurifier_Token_Tag$/;"	c
+HTMLPurifier_Token_Start	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Token_Start extends HTMLPurifier_Token_Tag$/;"	c
+HTMLPurifier_Token_Tag	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Token_Tag extends HTMLPurifier_Token$/;"	c
+HTMLPurifier_Token_Text	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_Token_Text extends HTMLPurifier_Token$/;"	c
+HTMLPurifier_URIFilter_DisableExternal	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIFilter_DisableExternal extends HTMLPurifier_URIFilter$/;"	c
+HTMLPurifier_URIFilter_DisableExternalResources	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIFilter_DisableExternalResources extends HTMLPurifier_URIFilter_DisableExternal$/;"	c
+HTMLPurifier_URIFilter_DisableResources	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIFilter_DisableResources extends HTMLPurifier_URIFilter$/;"	c
+HTMLPurifier_URIFilter_HostBlacklist	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIFilter_HostBlacklist extends HTMLPurifier_URIFilter$/;"	c
+HTMLPurifier_URIFilter_MakeAbsolute	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIFilter_MakeAbsolute extends HTMLPurifier_URIFilter$/;"	c
+HTMLPurifier_URIFilter_Munge	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIFilter_Munge extends HTMLPurifier_URIFilter$/;"	c
+HTMLPurifier_URIScheme_data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_data extends HTMLPurifier_URIScheme {$/;"	c
+HTMLPurifier_URIScheme_file	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_file extends HTMLPurifier_URIScheme {$/;"	c
+HTMLPurifier_URIScheme_ftp	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_ftp extends HTMLPurifier_URIScheme {$/;"	c
+HTMLPurifier_URIScheme_http	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_http extends HTMLPurifier_URIScheme {$/;"	c
+HTMLPurifier_URIScheme_https	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_https extends HTMLPurifier_URIScheme_http {$/;"	c
+HTMLPurifier_URIScheme_news	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_news extends HTMLPurifier_URIScheme {$/;"	c
+HTMLPurifier_URIScheme_nntp	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_URIScheme_nntp extends HTMLPurifier_URIScheme {$/;"	c
+HTMLPurifier_VarParser_Flexible	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_VarParser_Flexible extends HTMLPurifier_VarParser$/;"	c
+HTMLPurifier_VarParser_Native	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^class HTMLPurifier_VarParser_Native extends HTMLPurifier_VarParser$/;"	c
+Helper	.\protected\components\Helper.php	/^class Helper extends CController$/;"	c
+IDataProvider	.\framework\yiilite.php	/^interface IDataProvider$/;"	i
+Iterator	.\framework\collections\CListIterator.php	/^	 * This method is required by the interface Iterator.$/;"	i
+Iterator	.\framework\collections\CMapIterator.php	/^	 * This method is required by the interface Iterator.$/;"	i
+Iterator	.\framework\collections\CQueueIterator.php	/^	 * This method is required by the interface Iterator.$/;"	i
+Iterator	.\framework\collections\CStackIterator.php	/^	 * This method is required by the interface Iterator.$/;"	i
+Iterator	.\framework\db\CDbDataReader.php	/^	 * This method is required by the interface Iterator.$/;"	i
+Iterator	.\framework\web\CHttpSessionIterator.php	/^	 * This method is required by the interface Iterator.$/;"	i
+LoginController	.\protected\controllers\LoginController.php	/^class LoginController extends CLoginController$/;"	c
+LoginForm	.\protected\models\LoginForm.php	/^class LoginForm extends CFormModel$/;"	c
+ModelGenerator	.\framework\gii\generators\model\ModelGenerator.php	/^class ModelGenerator extends CCodeGenerator$/;"	c
+ModuleGenerator	.\framework\gii\generators\module\ModuleGenerator.php	/^class ModuleGenerator extends CCodeGenerator$/;"	c
+MyCActiveRecord	.\protected\models\MyCActiveRecord.php	/^class MyCActiveRecord extends CActiveRecord$/;"	c
+MyLanguage	.\protected\components\MyLanguage.php	/^class MyLanguage$/;"	c
+MyLoginForm	.\protected\models\MyLoginForm.php	/^class MyLoginForm extends CFormModel$/;"	c
+MyString	.\protected\components\MyString.php	/^class MyString$/;"	c
+Net_IDNA2_Exception	.\framework\vendors\Net_IDNA2\Net\IDNA2\Exception.php	/^class Net_IDNA2_Exception extends Exception$/;"	c
+Net_IDNA2_Exception_Nameprep	.\framework\vendors\Net_IDNA2\Net\IDNA2\Exception\Nameprep.php	/^class Net_IDNA2_Exception_Nameprep extends Net_IDNA2_Exception$/;"	c
+OperatorFuncs	.\protected\components\OperatorFuncs.php	/^class OperatorFuncs$/;"	c
+PHP_COMMAND	.\framework\yiic.bat	/^if "%PHP_COMMAND%" == "" set PHP_COMMAND=php.exe$/;"	v
+PHP_COMMAND	.\protected\yiic.bat	/^if "%PHP_COMMAND%" == "" set PHP_COMMAND=php.exe$/;"	v
+ShellException	.\framework\cli\commands\ShellCommand.php	/^class ShellException extends CException$/;"	c
+SiteController	.\protected\controllers\SiteController.php	/^class SiteController extends Controller$/;"	c
+SiteTest	.\protected\tests\functional\SiteTest.php	/^class SiteTest extends WebTestCase$/;"	c
+TEST_BASE_URL	.\protected\tests\WebTestCase.php	/^define('TEST_BASE_URL','http:\/\/localhost\/testdrive\/index-test.php\/');$/;"	d
+Text_Diff_Op_change	.\framework\gii\components\Pear\Text\Diff.php	/^    function Text_Diff_Op_change($orig, $final)$/;"	f
+UserIdentity	.\protected\components\UserIdentity.php	/^ class UserIdentity extends CUserIdentity$/;"	c
+VcosAdmin	.\protected\models\VcosAdmin.php	/^ class VcosAdmin extends MyCActiveRecord$/;"	c
+WebTestCase	.\protected\tests\WebTestCase.php	/^class WebTestCase extends CWebTestCase$/;"	c
+WebUser	.\protected\components\WebUser.php	/^class WebUser extends CWebUser$/;"	c
+YII_DEBUG	.\framework\yiic.php	/^øXpTXÉ~"s@ìe3¨¨J–Ur—5bµhÁ¥∆]∏óq˛B°SKËˆ‹^⁄ﬂ∂d‚<üΩe¸ò&˜i D(Çπ¿©∂/;"	d
+YII_ENABLE_ERROR_HANDLER	.\framework\yiit.php	/^defined('YII_ENABLE_ERROR_HANDLER') or define('YII_ENABLE_ERROR_HANDLER',false);$/;"	d
+YII_PATH	.\framework\yiic.bat	/^set YII_PATH=%~dp0$/;"	v
+Yii	.\framework\yii.php	/^class Yii extends YiiBase$/;"	c
+__call	.\framework\web\services\CWebService.php	/^	public function __call($name,$arguments)$/;"	f
+__construct	.\framework\base\CExceptionEvent.php	/^	public function __construct($sender,$exception)$/;"	f
+__construct	.\framework\db\schema\CDbExpression.php	/^	public function __construct($expression,$params=array())$/;"	f
+__construct	.\framework\i18n\CMessageSource.php	/^	public function __construct($sender,$category,$message,$language)$/;"	f
+__construct	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function __construct($data, $line = null, $col = null) {$/;"	f
+__construct	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function __construct($name, $attr = array(), $line = null, $col = null) {$/;"	f
+__construct	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function __construct($transform_to, $style = null) {$/;"	f
+__construct	.\framework\web\CHttpCookie.php	/^	public function __construct($name,$value)$/;"	f
+__construct	.\framework\web\COutputEvent.php	/^	public function __construct($sender,$output)$/;"	f
+__construct	.\framework\web\services\CWebService.php	/^	public function __construct($object)$/;"	f
+__toString	.\framework\db\schema\CDbExpression.php	/^	public function __toString()$/;"	f
+__toString	.\framework\web\helpers\CJavaScriptExpression.php	/^	public function __toString()$/;"	f
+_active	.\framework\db\CDbTransaction.php	/^		$this->_active=$value;$/;"	v
+_append	.\framework\gii\components\Pear\Text\Diff3.php	/^    function _append(&$array, $lines)$/;"	f
+_append	.\framework\gii\components\Pear\Text\Diff\ThreeWay.php	/^    function _append(&$array, $lines)$/;"	f
+_changed	.\framework\gii\components\Pear\Text\Diff\Renderer.php	/^    function _changed($orig, $final)$/;"	f
+_changed	.\framework\gii\components\Pear\Text\Diff\Renderer\context.php	/^    function _changed($orig, $final)$/;"	f
+_conditions	.\framework\vendors\TextHighlighter\Text\Highlighter\DIFF.php	/^        $this->_conditions = array ($/;"	v
+_conditions	.\framework\vendors\TextHighlighter\Text\Highlighter\DTD.php	/^        $this->_conditions = array ($/;"	v
+_conditions	.\framework\vendors\TextHighlighter\Text\Highlighter\PERL.php	/^        $this->_conditions = array ($/;"	v
+_conditions	.\framework\vendors\TextHighlighter\Text\Highlighter\SH.php	/^        $this->_conditions = array ($/;"	v
+_conditions	.\framework\vendors\TextHighlighter\Text\Highlighter\VBSCRIPT.php	/^        $this->_conditions = array ($/;"	v
+_conditions	.\framework\vendors\TextHighlighter\Text\Highlighter\XML.php	/^òQd≠\/Ó∂˛Fúcµ‰™oÙø-ûËÕ:9{às	.\framework\views\ja\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+_data	.\protected\components\OperatorFuncs.php	/^                    $_data=0;$/;"	v
+_data	.\protected\components\OperatorFuncs.php	/^                    $_data=1;$/;"	v
+_data	.\protected\components\OperatorFuncs.php	/^            $_data = $rules->data;$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\ABAP.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\CPP.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\CSS.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\DIFF.php	/^        $this->_defClass = 'default';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\DTD.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\HTML.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\JAVA.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\JAVASCRIPT.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\PERL.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\PYTHON.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\RUBY.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\SH.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\SQL.php	/^        $this->_defClass = 'code';$/;"	v
+_defClass	.\framework\vendors\TextHighlighter\Text\Highlighter\VBSCRIPT.php	/^        $this->_defClass = 'code';$/;"	v
+_deleted	.\framework\gii\components\Pear\Text\Diff\Renderer\context.php	/^    function _deleted($lines)$/;"	f
+_enabled	.\framework\base\CBehavior.php	/^		$this->_enabled=$value;$/;"	v
+_encode	.\framework\gii\components\Pear\Text\Diff\Renderer\inline.php	/^    function _encode(&$string)$/;"	f
+_formatter	.\framework\zii\widgets\CDetailView.php	/^		$this->_formatter=$value;$/;"	v
+_formatter	.\framework\zii\widgets\grid\CGridView.php	/^		$this->_formatter=$value;$/;"	v
+_headers	.\framework\logging\CEmailLogRoute.php	/^			$this->_headers=$value;$/;"	v
+_headers	.\framework\logging\CEmailLogRoute.php	/^			$this->_headers=preg_split('\/\\r\\n|\\n\/',$value,-1,PREG_SPLIT_NO_EMPTY);$/;"	v
+_identity	.\framework\gii\models\LoginForm.php	/^			$this->_identity=new UserIdentity('yiier',$this->password);$/;"	v
+_identity	.\protected\models\LoginForm.php	/^			$this->_identity=new UserIdentity($this->username,$this->password);$/;"	v
+_identity	.\protected\models\LoginForm.php	/^	private $_identity;$/;"	v
+_identity	.\protected\models\MyLoginForm.php	/^			$this->_identity = new UserIdentity($this->username,$this->password);$/;"	v
+_identity	.\protected\models\MyLoginForm.php	/^	private $_identity;$/;"	v
+_init	.\framework\gii\components\Pear\Text\Diff3.php	/^    function _init()$/;"	f
+_init	.\framework\gii\components\Pear\Text\Diff\ThreeWay.php	/^    function _init()$/;"	f
+_initialized	.\framework\base\CApplicationComponent.php	/^		$this->_initialized=true;$/;"	v
+_key	.\framework\collections\CMapIterator.php	/^		$this->_key=next($this->_keys);$/;"	v
+_key	.\framework\web\CHttpSessionIterator.php	/^			$this->_key=next($this->_keys);$/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\ABAP.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\DIFF.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\DTD.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\JAVA.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\PERL.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\RUBY.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\SH.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\SQL.php	/^        $this->_kwmap = array ($/;"	v
+_kwmap	.\framework\vendors\TextHighlighter\Text\Highlighter\VBSCRIPT.php	/^        $this->_kwmap = array ($/;"	v
+_language	.\framework\vendors\TextHighlighter\Text\Highlighter\Renderer.php	/^r	<·`*~£ëß]M√ñ@îÚû–UQÔg‡Úˇ¨dvüS#AyÈ˙jã	NØ8Iä+¡E≠cªÒ—–èû∆{€‹¡‹´x~◊¬l$/;"	v
+_logCount	.\framework\logging\CLogger.php	/^		$this->_logCount=0;$/;"	v
+_logs	.\framework\logging\CLogger.php	/^		$this->_logs=array();$/;"	v
+_model	.\protected\components\WebUser.php	/^				$this->_model = User::model()->findByPk($id);$/;"	v
+_model	.\protected\components\WebUser.php	/^	private $_model;$/;"	v
+_output	.\framework\vendors\TextHighlighter\Text\Highlighter\Renderer\JSON.php	/^        $this->_output  = '['. implode(',', $json_array) .']';$/;"	v
+_output	.\framework\vendors\TextHighlighter\Text\Highlighter\Renderer\JSON.php	/^        $this->_output = str_replace("\\n", '\\n', $this->_output);$/;"	v
+_parser	.\framework\web\widgets\CMarkdown.php	/^			$this->_parser=$this->createMarkdownParser();$/;"	v
+_size_lookup	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $_size_lookup = array($/;"	v
+_totalItemCount	.\framework\web\CDataProvider.php	/^			$this->_totalItemCount=$this->calculateTotalItemCount();$/;"	v
+_totalItemCount	.\framework\web\CDataProvider.php	/^		$this->_totalItemCount=$value;$/;"	v
+_viewPath	.\framework\web\CExtController.php	/^			$this->_viewPath=dirname($class->getFileName()).DIRECTORY_SEPARATOR.'views';$/;"	v
+_viewPath	.\framework\web\CExtController.php	/^		$this->_viewPath=$value;$/;"	v
+accepts	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^ * @warning This class accepts attributes even though end tags cannot. This$/;"	c
+action	.\framework\console\CConsoleCommandEvent.php	/^		$this->action=$action;$/;"	v
+actionCheckgoodsorder	.\protected\components\Controller.php	/^ 	public function actionCheckgoodsorder()$/;"	f
+actionChecklsbooking	.\protected\components\Controller.php	/^ 	public function actionChecklsbooking()$/;"	f
+actionContact	.\protected\controllers\SiteController.php	/^	public function actionContact()$/;"	f
+actionError	.\protected\controllers\SiteController.php	/^	public function actionError()$/;"	f
+actionIndex	.\framework\cli\views\shell\module\controllers\DefaultController.php	/^	public function actionIndex()$/;"	f
+actionIndex	.\framework\gii\generators\module\templates\default\controllers\DefaultController.php	/^	public function actionIndex()$/;"	f
+actionIndex	.\protected\controllers\SiteController.php	/^	public function actionIndex()$/;"	f
+actionLogin	.\protected\controllers\LoginController.php	/^	public function actionLogin()$/;"	f
+actionLogin	.\protected\controllers\SiteController.php	/^	public function actionLogin()$/;"	f
+actionLogout	.\framework\cli\views\webapp\protected\controllers\SiteController.php	/^	public function actionLogout()$/;"	f
+actionLogout	.\framework\gii\controllers\DefaultController.php	/^	public function actionLogout()$/;"	f
+actionLogout	.\protected\controllers\SiteController.php	/^	public function actionLogout()$/;"	f
+actions	.\framework\gii\generators\controller\templates\default\controller.php	/^	public function actions()$/;"	f
+actions	.\protected\controllers\SiteController.php	/^	public function actions()$/;"	f
+add	.\framework\collections\CTypedMap.php	/^	public function add($index,$item)$/;"	f
+addPTag	.\protected\components\MyString.php	/^	public static function addPTag($str,$style=1)$/;"	f
+addPrefix	.\framework\cli\commands\shell\ModelCommand.php	/^	protected function addPrefix($tableName)$/;"	f
+admin	.\protected\components\UserIdentity.php	/^ 		$admin = Yii::app()->m_db->createCommand($sql_value)->queryRow();$/;"	v
+admin	.\protected\controllers\LoginController.php	/^				$admin = VcosAdmin::model()->findByPk(Yii::app()->user->id);$/;"	v
+admin_id	.\protected\components\Controller.php	/^ 			$admin_id = Yii::app()->user->id;$/;"	v
+admin_id	.\protected\components\Controller.php	/^ 		$admin_id = Yii::app()->user->id;$/;"	v
+admin_password	.\protected\components\UserIdentity.php	/^ 		$admin_password = $admin['admin_password'];$/;"	v
+admin_state	.\protected\components\UserIdentity.php	/^ 		$admin_state = $admin['admin_state'];$/;"	v
+afterAction	.\framework\console\CConsoleCommandBehavior.php	/^	protected function afterAction($event)$/;"	f
+afterValidate	.\framework\base\CModelBehavior.php	/^	public function afterValidate($event)$/;"	f
+aggregateResult	.\framework\logging\CProfileLogRoute.php	/^	protected function aggregateResult($result,$delta)$/;"	f
+allow_type	.\protected\components\Helper.php	/^		$allow_type = array($/;"	v
+allowed_types	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $allowed_types = array($/;"	v
+alterColumn	.\framework\db\schema\mssql\CMssqlSchema.php	/^	public function alterColumn($table, $column, $type)$/;"	f
+app	.\framework\logging\CWebLogRoute.php	/^		$app=Yii::app();$/;"	v
+app	.\framework\yiic.php	/^	$app=Yii::createConsoleApplication($config);$/;"	v
+app	.\framework\yiic.php	/^	$app=Yii::createConsoleApplication(array('basePath'=>dirname(__FILE__).'\/cli'));$/;"	v
+arr_single_tags	.\protected\components\MyString.php	/^        $arr_single_tags = array('meta', 'img', 'br', 'link', 'area');$/;"	v
+array_iconv	.\protected\components\MyString.php	/^	public static function array_iconv($data, $output = 'UTF-8') $/;"	f
+assertIsLookup	.\framework\vendors\htmlpurifier\standalone\HTMLPurifier\ConfigSchema\ValidatorAtom.php	/^*5⁄ÙìBêg{1ìÃªZÍ∏\/Œ¿>R∏÷ÀûÇÑŸ&¿Z∆∆^:y’¬?v8tº(JÊõ˙9‹˜XCòn≤‹£2fKbåGû!SPúe\HTMLPurifier\Printer\HTMLDefinition.php	/^        $ret = '';$/;"	v
+attr	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $attr = $tag->attr;$/;"	v
+attr	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->attr = $attr;$/;"	v
+attr	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $attr = array();$/;"	v
+attr	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function __construct($name, $attr = array(), $line = null, $col = null) {$/;"	v
+attribute	.\framework\web\widgets\CActiveForm.php	/^			foreach($model->getErrors() as $attribute=>$errors)$/;"	v
+attributeLabels	.\framework\cli\views\webapp\protected\models\ContactForm.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	.\protected\models\ContactForm.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	.\protected\models\LoginForm.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	.\protected\models\MyLoginForm.php	/^	public function attributeLabels()$/;"	f
+attributeLabels	.\protected\models\VcosAdmin.php	/^	public function attributeLabels()$/;"	f
+auth	.\protected\components\Controller.php	/^ 			$auth = array();$/;"	v
+auth	.\protected\components\Controller.php	/^ 		$this->auth = $this->setmyaction();$/;"	v
+auth	.\protected\components\Controller.php	/^ 	public $auth;$/;"	v
+authenticate	.\framework\cli\views\webapp\protected\components\UserIdentity.php	/^	public function authenticate()$/;"	f
+authenticate	.\protected\components\UserIdentity.php	/^ 	public function authenticate()$/;"	f
+authenticate	.\protected\models\LoginForm.php	/^	public function authenticate($attribute,$params)$/;"	f
+authenticate	.\protected\models\MyLoginForm.php	/^	public function authenticate($attribute,$params)$/;"	f
+base	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->base = $def->base;$/;"	v
+base	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $base;$/;"	v
+basePathStack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->basePathStack = $stack;$/;"	v
+basePathStack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $basePathStack = array();$/;"	v
+beforeValidate	.\framework\base\CModelBehavior.php	/^	public function beforeValidate($event)$/;"	f
+blacklist	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->blacklist = $config->get('URI.HostBlacklist');$/;"	v
+blacklist	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $blacklist = array();$/;"	v
+body	.\protected\models\ContactForm.php	/^	public $body;$/;"	v
+box	.\framework\web\widgets\captcha\CCaptchaAction.php	/^			$box = imagettftext($image,$fontSize,$angle,$x,$y,$foreColor,$this->fontFile,$letter);$/;"	v
+breadcrumbs	.\framework\cli\views\webapp\protected\components\Controller.php	/^	public $breadcrumbs=array();$/;"	v
+breadcrumbs	.\protected\components\Controller.php	/^ 	public $breadcrumbs = array();$/;"	v
+breadcrumbs	.\protected\views\site\contact.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	.\protected\views\site\error.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	.\protected\views\site\login.php	/^$this->breadcrumbs=array($/;"	v
+breadcrumbs	.\protected\views\site\pages\about.php	/^$this->breadcrumbs=array($/;"	v
+browsable	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $browsable = false;$/;"	v
+browsable	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $browsable = true; \/\/ usually$/;"	v
+browsable	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $browsable = true;$/;"	v
+c	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                            $c = explode(':', $keypair, 2);$/;"	v
+c	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $c = count($skipped_tags);$/;"	v
+calculateKey	.\framework\web\CCacheHttpSession.php	/^	protected function calculateKey($id)$/;"	f
+calculateTotalItemCount	.\framework\web\CSqlDataProvider.php	/^	protected function calculateTotalItemCount()$/;"	f
+call	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^     * without having to use a function call <tt>is_a()<\/tt>.$/;"	f
+canSetProperty	.\framework\collections\CAttributeCollection.php	/^	public function canSetProperty($name)$/;"	f
+catalogName	.\framework\db\schema\mssql\CMssqlTableSchema.php	/^	public $catalogName;$/;"	v
+category	.\framework\i18n\CMessageSource.php	/^		$this->category=$category;$/;"	v
+ch	.\protected\components\MyString.php	/^    	$ch = curl_init();$/;"	v
+charset	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $charset = substr($cur, 8); \/\/ not used$/;"	v
+charset	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $charset = null;$/;"	v
+charset	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $charset = null;$/;"	v
+charset	.\protected\components\MyString.php	/^    public static function mstrlen($str, $charset = 'UTF-8') $/;"	v
+checkRequirements	.\framework\web\widgets\captcha\CCaptcha.php	/^	public static function checkRequirements()$/;"	f
+checksum	.\protected\components\MyString.php	/^        $checksum = 0;$/;"	v
+class	.\framework\web\CExtController.php	/^			$class=new ReflectionClass(get_class($this));$/;"	v
+class2id	.\framework\cli\commands\shell\CrudCommand.php	/^	public function class2id($className)$/;"	f
+class2name	.\framework\cli\commands\shell\CrudCommand.php	/^	public function class2name($className,$pluralize=false)$/;"	f
+className	.\framework\cli\commands\shell\CrudCommand.php	/^			$className=$this->pluralize($className);$/;"	v
+className	.\framework\cli\commands\shell\FormCommand.php	/^			$className=substr($className,0,strlen($className)-4);$/;"	v
+click	.\framework\zii\widgets\jui\CJuiButton.php	/^				$click = CJavaScript::encode($this->onclick);$/;"	v
+clip	.\framework\web\widgets\CClipWidget.php	/^		$clip=ob_get_clean();$/;"	v
+closedtags	.\protected\components\MyString.php	/^        $closedtags = $result[1];$/;"	v
+closetags	.\protected\components\MyString.php	/^    public static function closetags($html) $/;"	f
+cn_name	.\protected\components\UserIdentity.php	/^ 			$this->cn_name = $admin['admin_real_name'];$/;"	v
+cn_name	.\protected\components\UserIdentity.php	/^ 	public $cn_name;$/;"	v
+code	.\framework\base\CErrorEvent.php	/^		$this->code=$code;$/;"	v
+codeModel	.\framework\gii\generators\controller\ControllerGenerator.php	/^	public $codeModel='gii.generators.controller.ControllerCode';$/;"	v
+codeModel	.\framework\gii\generators\crud\CrudGenerator.php	/^	public $codeModel='gii.generators.crud.CrudCode';$/;"	v
+codeModel	.\framework\gii\generators\form\FormGenerator.php	/^	public $codeModel='gii.generators.form.FormCode';$/;"	v
+codeModel	.\framework\gii\generators\model\ModelGenerator.php	/^	public $codeModel='gii.generators.model.ModelCode';$/;"	v
+codeModel	.\framework\gii\generators\module\ModuleGenerator.php	/^	public $codeModel='gii.generators.module.ModuleCode';$/;"	v
+col	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->col  = $col;$/;"	v
+command	.\framework\db\schema\oci\COciCommandBuilder.php	/^			$command=$this->getDbConnection()->createCommand($sql);$/;"	v
+command	.\framework\i18n\CDbMessageSource.php	/^		$command=$this->getDbConnection()->createCommand($sql);$/;"	v
+command	.\framework\logging\CDbLogRoute.php	/^		$command=$this->getDbConnection()->createCommand($sql);$/;"	v
+conditions	.\framework\db\CDbCommand.php	/^			$conditions=' ON '.$conditions;$/;"	v
+config	.\framework\collections\CConfiguration.php	/^			$config=$config->toArray();$/;"	v
+config	.\protected\tests\bootstrap.php	/^$config=dirname(__FILE__).'\/..\/config\/test.php';$/;"	v
+config	.\protected\yiic.php	/^$config=dirname(__FILE__).'\/config\/console.php';$/;"	v
+content_type	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $content_type = $cur;$/;"	v
+content_type	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $content_type = $real_content_type;$/;"	v
+content_type	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $content_type = null;$/;"	v
+contents	.\protected\components\MyString.php	/^        $contents = preg_split("~(<[^>]+?>)~si", $html, -1, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);$/;"	v
+cookie	.\protected\controllers\LoginController.php	/^				$cookie = Yii::app()->request->getCookies();$/;"	v
+cookie	.\protected\controllers\LoginController.php	/^			$cookie = new CHttpCookie('my_reffer_url',$reffer_url);$/;"	v
+cookies	.\protected\components\MyLanguage.php	/^			$cookies = new CHttpCookie('my_language',$_GET['lang']);$/;"	v
+cookies	.\protected\components\MyLanguage.php	/^		$cookies = Yii::app()->request->getCookies();$/;"	v
+count	.\framework\cli\views\shell\crud\admin.php	/^$count=0;$/;"	v
+count	.\framework\collections\CQueue.php	/^	public function count()$/;"	f
+count	.\framework\collections\CStack.php	/^	public function count()$/;"	f
+count	.\framework\gii\generators\crud\templates\default\admin.php	/^$count=0;$/;"	v
+count	.\framework\web\CDataProviderIterator.php	/^	public function count()$/;"	f
+createCompositeInCondition	.\framework\db\schema\sqlite\CSqliteCommandBuilder.php	/^	protected function createCompositeInCondition($table,$values,$prefix)$/;"	f
+createLink	.\framework\web\CSort.php	/^	protected function createLink($attribute,$label,$url,$htmlOptions)$/;"	f
+createMarkdownParser	.\framework\web\widgets\CMarkdown.php	/^	protected function createMarkdownParser()$/;"	f
+createObject	.\framework\collections\CConfiguration.php	/^	public static function createObject($config)$/;"	f
+createPageUrl	.\framework\web\widgets\pagers\CBasePager.php	/^	protected function createPageUrl($page)$/;"	f
+createWebService	.\framework\web\services\CWebServiceAction.php	/^	protected function createWebService($provider,$wsdlUrl,$serviceUrl)$/;"	f
+createWidget	.\framework\yiilite.php	/^x◊&#“ZD_ï˘Æ&ïŸyãYF—‡Y¨˘ÍrÅç£ÁˇqÌ\/J≠	*W¯ÏÂä¿ûFmdΩó˚∏¬Œ¯ˇ∫ﬁL‚å<O˝epëS„äub…ËÆÖç6ñ;îÕ)x3ÿH˜‘6àßΩ¬  ‚K´üóª-olic function createWidget($owner,$className,$properties=array());$/;"	f
+criteria	.\framework\base\CModelEvent.php	/^	public $criteria;$/;"	v
+criteria	.\framework\cli\views\shell\model\model.php	/^		$criteria=new CDbCriteria;$/;"	v
+criteria	.\framework\validators\CExistValidator.php	/^			$criteria=new CDbCriteria($criteria);$/;"	v
+criteria	.\framework\validators\CExistValidator.php	/^		$criteria=array('condition'=>$column->rawName.'=:vp','params'=>array(':vp'=>$value));$/;"	v
+criteria	.\protected\models\VcosAdmin.php	/^		$criteria = new CDbCriteria;$/;"	v
+cs	.\framework\web\helpers\CGoogleApi.php	/^		$cs=Yii::app()->getClientScript();$/;"	v
+cs	.\framework\web\widgets\CMultiFileUpload.php	/^		$cs=Yii::app()->getClientScript();$/;"	v
+cs	.\framework\zii\widgets\jui\CJuiAutoComplete.php	/^		$cs = Yii::app()->getClientScript();$/;"	v
+cur	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $cur = array_shift($metas);$/;"	v
+curl_file_get_contents	.\protected\components\MyString.php	/^    public static function curl_file_get_contents($durl,$time_out=10)$/;"	f
+current_parent	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $current_parent = array_pop($this->stack);$/;"	v
+d	.\protected\components\MyString.php	/^		        $d = substr( $date, 4, 2 );$/;"	v
+d	.\protected\components\MyString.php	/^		        $d = substr( $date, 6, 2 );$/;"	v
+data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $data = $token->data;$/;"	v
+data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $data = $result[0];$/;"	v
+data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $data = rawurldecode($data);$/;"	v
+data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->data = $data;$/;"	v
+data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $data; \/**< Character data within comment. *\/$/;"	v
+data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $data; \/**< Parsed character data of text. *\/$/;"	v
+data	.\framework\web\CController.php	/^			$data=gzcompress($data);$/;"	v
+data	.\framework\web\widgets\CContentDecorator.php	/^			$data=$this->data;$/;"	v
+data	.\framework\web\widgets\CTabView.php	/^						$data=$tab['data'];$/;"	v
+data	.\framework\web\widgets\CTabView.php	/^					$data=$this->viewData;$/;"	v
+database	.\protected\models\MyCActiveRecord.php	/^	static $database = array();$/;"	v
+db	.\framework\web\CDbHttpSession.php	/^		$db=$this->getDbConnection();$/;"	v
+dbname	.\protected\models\MyCActiveRecord.php	/^			$dbname = $this->dbname;$/;"	v
+dbname	.\protected\models\MyCActiveRecord.php	/^	public $dbname = 'm_db';$/;"	v
+decode	.\framework\i18n\gettext\CGettextPoFile.php	/^	protected function decode($string)$/;"	f
+def	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $def = $config->getDefinition('URI');$/;"	v
+defaultValue	.\framework\db\schema\oci\COciColumnSchema.php	/^			$this->defaultValue=null;$/;"	v
+defaultValue	.\framework\db\schema\pgsql\CPgsqlColumnSchema.php	/^			$this->defaultValue=$this->typecast($defaultValue);$/;"	v
+defaultValue	.\framework\db\schema\pgsql\CPgsqlColumnSchema.php	/^			$this->defaultValue=$this->typecast(str_replace("''","'",$matches[1]));$/;"	v
+default_port	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $default_port = 119;$/;"	v
+default_port	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $default_port = 21;$/;"	v
+default_port	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $default_port = 443;$/;"	v
+default_port	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $default_port = 80;$/;"	v
+definition	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $definition = $config->getHTMLDefinition();$/;"	v
+delete	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $delete = array_shift($token);$/;"	v
+deleteValue	.\framework\caching\CApcCache.php	/^	protected function deleteValue($key)$/;"	f
+deleteValue	.\framework\caching\CZendDataCache.php	/^	protected function deleteValue($key)$/;"	f
+dependency	.\framework\i18n\CGettextMessageSource.php	/^				$dependency=new CFileCacheDependency($messageFile);$/;"	v
+deprecatedVersion	.\framework\vendors\htmlpurifier\standalone\HTMLPurifier\ConfigSchema\Interchange\Directive.php	/^    public $deprecatedVersion;$/;"	v
+desc	.\framework\vendors\markdown\markdown.php	/^				$desc = $this->encodeAttribute($desc);$/;"	v
+doEmbed	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->doEmbed   = $config->get('URI.MungeResources');$/;"	v
+domain	.\framework\validators\CEmailValidator.php	/^			$domain=rtrim(substr($value,strpos($value,'@')+1),'>');$/;"	v
+dot	.\protected\components\MyString.php	/^    public static function msubstr($string, $start, $length, $dot = '', $charset = 'UTF-8') $/;"	v
+down	.\framework\cli\commands\MigrateCommand.php	/^    public function down()$/;"	f
+dropForeignKey	.\framework\db\schema\mysql\CMysqlSchema.php	/^	public function dropForeignKey($name, $table)$/;"	f
+dropIndex	.\framework\db\schema\CDbSchema.php	/^	public function dropIndex($name, $table)$/;"	f
+dropIndex	.\framework\db\schema\oci\COciSchema.php	/^	public function dropIndex($name, $table)$/;"	f
+dropIndex	.\framework\db\schema\pgsql\CPgsqlSchema.php	/^	public function dropIndex($name, $table)$/;"	f
+dropIndex	.\framework\db\schema\sqlite\CSqliteSchema.php	/^	public function dropIndex($name, $table)$/;"	f
+duraction	.\protected\models\MyLoginForm.php	/^			$duraction = $this->rememberMe ? 3600 * 24 * 30 : 0;$/;"	v
+duration	.\framework\cli\views\webapp\protected\models\LoginForm.php	/^			$duration=$this->rememberMe ? 3600*24*30 : 0; \/\/ 30 days$/;"	v
+duration	.\protected\models\LoginForm.php	/^			$duration=$this->rememberMe ? 3600*24*30 : 0; \/\/ 30 days$/;"	v
+e	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $e =& $context->get('ErrorCollector');$/;"	v
+e	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $e = false;$/;"	v
+e_mail	.\protected\components\UserIdentity.php	/^ 			$this->e_mail = $admin['admin_email'];$/;"	v
+e_mail	.\protected\components\UserIdentity.php	/^ 	public $e_mail;$/;"	v
+edit	.\framework\gii\components\Pear\Text\Diff\ThreeWay.php	/^            $edit = new Text_Diff_ThreeWay_Op($this->orig, $this->final1, $this->final2);$/;"	v
+element	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $element = clone $skipped_tags[$j];$/;"	v
+email	.\protected\models\ContactForm.php	/^	public $email;$/;"	v
+encode	.\framework\i18n\gettext\CGettextPoFile.php	/^	protected function encode($string)$/;"	f
+encode_arr	.\protected\components\MyString.php	/^	    $encode_arr = array('UTF-8', 'ASCII', 'GBK', 'GB2312', 'BIG5', 'JIS', 'eucjp-win', 'sjis-win', 'EUC-JP');$/;"	v
+encoded	.\protected\components\MyString.php	/^	    $encoded = mb_detect_encoding($data, $encode_arr); \/\/Ëá™Âä®Âà§Êñ≠ÁºñÁ†Å$/;"	v
+endContent	.\framework\web\CBaseController.php	/^	public function endContent()$/;"	f
+env	.\framework\yiic.php	/^	$env=@getenv('YII_CONSOLE_COMMANDS');$/;"	v
+era	.\framework\i18n\CDateFormatter.php	/^		$era=$date['year']>0 ? 1 : 0;$/;"	v
+error	.\protected\components\Controller.php	/^ 			$error = Yii::app()->createUrl('error\/index');$/;"	v
+error	.\protected\components\Helper.php	/^				$error = "‰Ω†‰∏ä‰º†ÁöÑÊñá‰ª∂Â§ßÂ∞èË∂ÖËøáÊúçÂä°Âô®ÈÖçÁΩÆÁöÑÂ§ßÂ∞è";$/;"	v
+error	.\protected\components\Helper.php	/^			$error = "‰Ω†‰∏ä‰º†ÁöÑÊñá‰ª∂Â§ßÂ∞èËØ∑‰∏çË¶ÅË∂ÖËøá{$allow_size}MB";$/;"	v
+error	.\protected\components\Helper.php	/^			$error = "ËØ∑‰∏ä‰º†".implode(',', array_keys($allow_type[$type]))."Ê†ºÂºèÁöÑÊñá‰ª∂";$/;"	v
+error	.\protected\components\Helper.php	/^		$error = '';$/;"	v
+error	.\protected\components\Helper.php	/^	            $error='‰Ω†ÊâÄ‰∏ä‰º†ÁöÑÊñá‰ª∂Â§ßÂ∞èË∂ÖËøá‰∫ÜË°®ÂçïËÆæÁΩÆÁöÑÂ§ßÂ∞è';$/;"	v
+error	.\protected\components\Helper.php	/^	            $error='ÁΩëÁªúÂá∫Áé∞ÈóÆÈ¢òÔºåËØ∑Ê£ÄÊü•‰Ω†ÁöÑÁΩëÁªúÊòØÂê¶ËøûÊé•Ôºü';$/;"	v
+error	.\protected\components\Helper.php	/^	            $error='ËØ∑ÈÄâÊã©‰Ω†Ë¶Å‰∏ä‰º†ÁöÑÊñá‰ª∂';$/;"	v
+errorCode	.\framework\cli\views\webapp\protected\components\UserIdentity.php	/^			$this->errorCode=self::ERROR_NONE;$/;"	v
+errorCode	.\framework\cli\views\webapp\protected\components\UserIdentity.php	/^			$this->errorCode=self::ERROR_PASSWORD_INVALID;$/;"	v
+errorCode	.\framework\cli\views\webapp\protected\components\UserIdentity.php	/^			$this->errorCode=self::ERROR_USERNAME_INVALID;$/;"	v
+errorCode	.\protected\components\UserIdentity.php	/^ 			$this->errorCode = self::ERROR_NONE;$/;"	v
+errorCode	.\protected\components\UserIdentity.php	/^ 			$this->errorCode = self::ERROR_USERNAME_INVALID;$/;"	v
+errorPlacement	.\themes\ace\views\login\login.php	/^                    errorPlacement: function (error, element) {$/;"	j
+escape_invalid_tags	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $escape_invalid_tags = $config->get('Core.EscapeInvalidTags');$/;"	v
+evalExpression	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected function evalExpression($expr) {$/;"	f
+evaluate	.\framework\i18n\CChoiceFormat.php	/^	protected static function evaluate($expression,$n)$/;"	f
+evaluateVisible	.\framework\web\form\CFormButtonElement.php	/^	protected function evaluateVisible()$/;"	f
+evaluateVisible	.\framework\web\form\CFormElement.php	/^	protected function evaluateVisible()$/;"	f
+evaluateVisible	.\framework\web\form\CFormInputElement.php	/^	protected function evaluateVisible()$/;"	f
+evaluateVisible	.\framework\web\form\CFormStringElement.php	/^	protected function evaluateVisible()$/;"	f
+event	.\framework\base\CBehavior.php	/^				foreach($this->events() as $event=>$handler)$/;"	v
+exception	.\framework\base\CExceptionEvent.php	/^		$this->exception=$exception;$/;"	v
+exception	.\framework\base\CExceptionEvent.php	/^	public $exception;$/;"	v
+execute	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function execute($tokens, $config, $context) {$/;"	f
+exists	.\framework\gii\generators\crud\views\index.php	/^			Please make sure the class exists and can be autoloaded.$/;"	c
+exitCode	.\framework\console\CConsoleCommandEvent.php	/^		$this->exitCode=$exitCode;$/;"	v
+expression	.\framework\db\schema\CDbExpression.php	/^		$this->expression=$expression;$/;"	v
+external	.\framework\vendors\htmlpurifier\standalone\HTMLPurifier\ConfigSchema\Interchange\Directive.php	/^    public $external = array();$/;"	v
+extractLimit	.\framework\db\schema\mysql\CMysqlColumnSchema.php	/^	protected function extractLimit($dbType)$/;"	f
+factor	.\protected\components\MyString.php	/^        $factor = array(7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2);$/;"	v
+field	.\protected\components\OperatorFuncs.php	/^            $field = $rules->field;$/;"	v
+file	.\framework\base\CErrorEvent.php	/^		$this->file=$file;$/;"	v
+file	.\framework\i18n\CGettextMessageSource.php	/^				$file=new CGettextMoFile($this->useBigEndian);$/;"	v
+file	.\framework\i18n\CGettextMessageSource.php	/^				$file=new CGettextPoFile();$/;"	v
+file	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $file = tempnam("\/tmp", "");$/;"	v
+file	.\protected\components\Helper.php	/^		$file = $_FILES[$input_name];$/;"	v
+filename	.\protected\components\Helper.php	/^		$filename = date("YmdHis").mt_rand(1000,9999).".".array_search($file['type'],$allow_type['type']);$/;"	v
+filter	.\framework\logging\CChainedLogFilter.php	/^	public function filter(&$logs)$/;"	f
+filter	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function filter(&$uri, $config, $context) {$/;"	f
+filter	.\framework\web\filters\CInlineFilter.php	/^	public function filter($filterChain)$/;"	f
+filters	.\framework\gii\generators\controller\templates\default\controller.php	/^	public function filters()$/;"	f
+final	.\framework\gii\components\Pear\Text\Diff.php	/^        $this->final = $final;$/;"	v
+final	.\framework\gii\components\Pear\Text\Diff\Mapped.php	/^¥{q(NWÒ∂Ë«÷HÃm$ˆ0f’é∏ÑÒ^D¿,‡K†¶|ræµìú‚Û<%h–æ™Â‹µ         $final = array_slice($to_lines, $yi, count($final));$/;"	v
+finish	.\framework\vendors\TextHighlighter\Text\generate.bat	/^:finish$/;"	l
+flush	.\framework\logging\CLogger.php	/^	public function flush()$/;"	f
+flushValues	.\framework\caching\CApcCache.php	/^	protected function flushValues()$/;"	f
+flushValues	.\framework\caching\CDbCache.php	/^	protected function flushValues()$/;"	f
+flushValues	.\framework\caching\CEAcceleratorCache.php	/^	protected function flushValues()$/;"	f
+flushValues	.\framework\caching\CRedisCache.php	/^	protected function flushValues()$/;"	f
+flushValues	.\framework\caching\CWinCache.php	/^	protected function flushValues()$/;"	f
+flushValues	.\framework\caching\CXCache.php	/^	protected function flushValues()$/;"	f
+flushValues	.\framework\caching\CZendDataCache.php	/^	protected function flushValues()$/;"	f
+for	.\framework\test\CTestCase.php	/^⁄ÿïëa+ãÁˆ›;ÚAò."h™p	Ö£¨÷ˆAøSR$3ên©! ãi˛…ËÊ€˝=sh˛§y˚h∏Ñ£‘ê¸!ÉZRõ>GµX¥≥ûOÕè!·äåîŸE{ıøP(ø ∞?@Æ,Cì G Q_(éißltValueValidator.php	/^	public $setOnEmpty=true;$/;"	v
+for	.\protected\models\VcosAdmin.php	/^ * This is the model class for table "vcos_admin".$/;"	c
+for	.\protected\tests\WebTestCase.php	/^ * The base class for functional test cases.$/;"	c
+form	.\protected\views\site\contact.php	/^<?php $form=$this->beginWidget('CActiveForm'); ?>$/;"	v
+form	.\protected\views\site\login.php	/^<?php $form=$this->beginWidget('CActiveForm', array($/;"	v
+form	.\themes\ace\views\login\login.php	/^                                                    $form = $this->beginWidget('CActiveForm', array($/;"	v
+format	.\protected\components\MyString.php	/^	public static function validateDate($date, $format='YYYYMMDD')$/;"	v
+found_double_hyphen	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $found_double_hyphen = true; \/\/ prevent double-erroring$/;"	v
+found_double_hyphen	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $found_double_hyphen = false;$/;"	v
+funcs	.\protected\components\OperatorFuncs.php	/^        $funcs = array($/;"	v
+funcs	.\protected\components\OperatorFuncs.php	/^        $funcs = self::getFuncs();$/;"	v
+g.Map	.\themes\ace\assets\js\third-party\highcharts\modules\map.js	/^çÕD<≈`¬ì‰ÎÆ”æ™Ùv'Íò¯Ç¿”8Ï–Iai™?®ÛHDìÑ(÷cT|&ˇ”˚~ì´C%G"äOé‡¥∂+…Ô™îç≤\\ØDÉâ{`ôÄ3é(√$≠rÚ˚Ûv¡$çr€>Kß¯~›ï,ç@ïMôñŸã*–¡>çﬂNﬁrbg^’∑@-sì¨MÏv=œì/;"	f
+g.Map.c.endOnTick	.\themes\ace\assets\js\third-party\highcharts\modules\map.js	/^çÕD<≈`¬ì‰ÎÆ”æ™Ùv'Íò¯Ç¿”8Ï–Iai™?®ÛHDìÑ(÷cT|&ˇ”˚~ì´C%G"äOé‡¥∂+…Ô™îç≤\\ØDÉâ{`ôÄ3é(√$≠rÚ˚Ûv¡$çr€>Kß¯~›ï,ç@ïMôñŸã*–¡>çﬂNﬁrbg^’∑@-sì¨MÏv=œì/;"	p
+gcSession	.\framework\web\CDbHttpSession.php	/^	public function gcSession($maxLifetime)$/;"	f
+gdinfo	.\framework\web\widgets\captcha\CCaptcha.php	/^			$gdinfo=gd_info();$/;"	v
+generateDependentData	.\framework\caching\dependencies\CCacheDependency.php	/^	protected function generateDependentData()$/;"	f
+generateDependentData	.\framework\caching\dependencies\CExpressionDependency.php	/^	protected function generateDependentData()$/;"	f
+generateEtag	.\framework\web\filters\CHttpCacheFilter.php	/^	protected function generateEtag($seed)$/;"	f
+generateModuleClass	.\framework\cli\commands\shell\ModuleCommand.php	/^	public function generateModuleClass($source,$params)$/;"	f
+generatePageText	.\framework\web\widgets\pagers\CListPager.php	/^	protected function generatePageText($page)$/;"	f
+generator	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $generator = new HTMLPurifier_Generator($config, $context);$/;"	v
+getClientOptions	.\framework\web\widgets\CMaskedTextField.php	/^	protected function getClientOptions()$/;"	f
+getColumnNames	.\framework\db\schema\CDbTableSchema.php	/^	public function getColumnNames()$/;"	f
+getCommandRunner	.\framework\console\CConsoleApplication.php	/^	public function getCommandRunner()$/;"	f
+getCount	.\framework\collections\CQueue.php	/^	public function getCount()$/;"	f
+getCount	.\framework\collections\CStack.php	/^	public function getCount()$/;"	f
+getData	.\framework\yiilite.php	/^	public function getData($refresh=false);$/;"	f
+getDbConnection	.\framework\caching\dependencies\CDbCacheDependency.php	/^	protected function getDbConnection()$/;"	f
+getDbConnection	.\protected\models\MyCActiveRecord.php	/^	public function getDbConnection()$/;"	f
+getDirective	.\framework\vendors\htmlpurifier\standalone\HTMLPurifier\ConfigSchema\Interchange\Id.php	/^    public function getDirective() {$/;"	f
+getEmail	.\protected\components\UserIdentity.php	/^ 	public function getEmail()$/;"	f
+getFirstName	.\protected\components\WebUser.php	/^	function getFirstName()$/;"	f
+getFlashVarsAsString	.\framework\web\widgets\CFlexWidget.php	/^	public function getFlashVarsAsString()$/;"	f
+getFuncs	.\protected\components\OperatorFuncs.php	/^    private static function getFuncs()$/;"	f
+getHelp	.\framework\cli\commands\shell\HelpCommand.php	/^	public function getHelp()$/;"	f
+getId	.\framework\yiilite.php	/^	public function getId();$/;"	f
+getId	.\protected\components\UserIdentity.php	/^ 	public function getId()$/;"	f
+getIntegerPrimaryKeyDefaultValue	.\framework\db\schema\pgsql\CPgsqlCommandBuilder.php	/^	protected function getIntegerPrimaryKeyDefaultValue()$/;"	f
+getIp	.\protected\components\Helper.php	/^	public static function getIp()$/;"	f
+getIsInitialized	.\framework\base\CApplicationComponent.php	/^	public function getIsInitialized()$/;"	f
+getItemCount	.\framework\yiilite.php	/^	public function getItemCount($refresh=false);$/;"	f
+getIterator	.\framework\collections\CStack.php	/^~áA%:G˙Úyﬂ€d≥™ÛõØ˜…ΩVgÌA≥;7lŒø≈çÑbGŸyﬁèäÂ=ÈoﬁŒ¯•æè‚gp0•èxg≤Hïª√ª∂ÿÎÌ]0++cãá	á{%xc function getIterator()$/;"	f
+getKeys	.\framework\yiilite.php	/^	public function getKeys($refresh=false);$/;"	f
+getLimit	.\framework\web\CPagination.php	/^	public function getLimit()$/;"	f
+getMarkdownParser	.\framework\web\widgets\CMarkdown.php	/^	public function getMarkdownParser()$/;"	f
+getName	.\protected\components\UserIdentity.php	/^ 	public function getName()$/;"	f
+getOffset	.\framework\web\CPagination.php	/^	public function getOffset()$/;"	f
+getPagination	.\framework\base\interfaces.php	/^	public function getPagination();$/;"	f
+getPagination	.\framework\yiilite.php	/^	public function getPagination();$/;"	f
+getParent	.\framework\web\form\CFormElement.php	/^	public function getParent()$/;"	f
+getPluralRules	.\framework\i18n\CLocale.php	/^	public function getPluralRules()$/;"	f
+getSort	.\framework\yiilite.php	/^	public function getSort();$/;"	f
+getTemplate	.\framework\cli\commands\MigrateCommand.php	/^	protected function getTemplate()$/;"	f
+getTimestampByColumnType	.\framework\zii\behaviors\CTimestampBehavior.php	/^	protected function getTimestampByColumnType($columnType) {$/;"	f
+getTotalItemCount	.\framework\yiilite.php	/^	public function getTotalItemCount($refresh=false);$/;"	f
+getViewFile	.\framework\gii\generators\controller\ControllerCode.php	/^	public function getViewFile($action)$/;"	f
+getViewPath	.\framework\web\CExtController.php	/^	public function getViewPath()$/;"	f
+getmethod_id	.\protected\components\Controller.php	/^ 	private function getmethod_id()$/;"	f
+groupOp	.\protected\components\OperatorFuncs.php	/^        $groupOp = $filters_object->groupOp;$/;"	v
+hasModel	.\framework\web\widgets\CInputWidget.php	/^	protected function hasModel()$/;"	f
+hasModel	.\framework\zii\widgets\jui\CJuiInputWidget.php	/^	protected function hasModel()$/;"	f
+headers	.\protected\controllers\SiteController.php	/^				$headers="From: {$model->email}\\r\\nReply-To: {$model->email}";$/;"	v
+hierarchical	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $hierarchical = true;$/;"	v
+highlight	.\themes\ace\views\login\login.php	/^                    highlight: function (e) {$/;"	j
+host_parts	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $host_parts = array_reverse(explode('.', $uri->host));$/;"	v
+hrefStartWith	.\themes\ace\assets\js\dialogs\link\link.html	/^    function hrefStartWith(href,arr){$/;"	f
+httpCode	.\protected\components\MyString.php	/^        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);$/;"	v
+i	.\framework\gii\CCodeForm.php	/^˙òQ˘ŒeoıW∂êªSÔµ”Wæ¨’¿±^8)¢i.µC`ÁßD";ÔÖ´øcû¨Û(Aatt‰Ïåà_¢˙U¡ï¿≤LÀ◊˘?Œò©ˆ*∆¿ö“ä“©{ª6K™]®uò0Î\/Q(ïë±3#ºW˘øÃ$í∏}ÔtTemplates() as $i=>$template)$/;"	v
+i	.\framework\gii\generators\model\ModelCode.php	/^		for($name=$names[0], $i=1;$i<count($names);++$i)$/;"	v
+i	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    foreach ($var as $i => $j) $var[$i] = trim($j);$/;"	v
+i	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                foreach ($this->injectors as $i => $injector) {$/;"	v
+i	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        foreach ($this->ourHostParts as $i => $x) {$/;"	v
+id	.\framework\zii\widgets\jui\CJuiInputWidget.php	/^				$id=$this->htmlOptions['id'];$/;"	v
+id	.\framework\zii\widgets\jui\CJuiInputWidget.php	/^				$id=CHtml::getIdByName($name);$/;"	v
+id	.\framework\zii\widgets\jui\CJuiSortable.php	/^ΩÄË∏ÁbZ‡=ËI4:ãFÔ“â®”ßƒ§œ,%æl¬ˆô8ÛÓ≥°≠pBo^®ØïƒXÅÏ6ê¯æe@nuz$g{„‹+M1›G„”RÉ∞>22Çmv´¢î1ì∆5troller.php	/^ 	public $breadcrumbs = array();$/;"	v
+id	.\protected\components\UserIdentity.php	/^ 			$this->id = $admin['admin_id'];$/;"	v
+id	.\protected\components\UserIdentity.php	/^ 	public $id;$/;"	v
+idcard	.\protected\components\MyString.php	/^		      $idcard = substr($idcard, 0, 6) . '18'. substr($idcard, 6, 9);$/;"	v
+idcard	.\protected\components\MyString.php	/^		      $idcard = substr($idcard, 0, 6) . '19'. substr($idcard, 6, 9);$/;"	v
+idcard	.\protected\components\MyString.php	/^	  	$idcard = $idcard . self::idcard_verify_number($idcard);$/;"	v
+idcard_15to18	.\protected\components\MyString.php	/^	public static function idcard_15to18($idcard)$/;"	f
+idcard_base	.\protected\components\MyString.php	/^		$idcard_base = substr($idcard, 0, 17);$/;"	v
+idcard_checksum18	.\protected\components\MyString.php	/^	public static function idcard_checksum18($idcard)$/;"	f
+idcard_verify_number	.\protected\components\MyString.php	/^    public static function idcard_verify_number($idcard_base)$/;"	f
+image_code	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $image_code = $info[2];$/;"	v
+image_code	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $image_code = exif_imagetype($file);$/;"	v
+info	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $info = getimagesize($file);$/;"	v
+init	.\framework\base\CApplicationComponent.php	/^	public function init()$/;"	f
+init	.\framework\base\CModule.php	/^	protected function init()$/;"	f
+init	.\protected\components\Controller.php	/^ 	public function init()$/;"	f
+injector	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected function processToken($token, $injector = -1) {$/;"	v
+insertAt	.\framework\collections\CTypedList.php	/^	public function insertAt($index,$item)$/;"	f
+insertBefore	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    private function insertBefore($token) {$/;"	f
+ip	.\protected\components\Helper.php	/^		 	$ip = getenv("HTTP_CLIENT_IP"); $/;"	v
+ip	.\protected\components\Helper.php	/^	    	$ip = $_SERVER['REMOTE_ADDR']; $/;"	v
+ip	.\protected\components\Helper.php	/^	    	$ip = getenv("HTTP_X_FORWARDED_FOR"); $/;"	v
+ip	.\protected\components\Helper.php	/^	    	$ip = getenv("REMOTE_ADDR"); $/;"	v
+ip	.\protected\components\Helper.php	/^    		$ip = "unknown"; $/;"	v
+ip	.\protected\components\MyString.php	/^	        $ip = $_SERVER['REMOTE_ADDR'];$/;"	v
+ip	.\protected\components\MyString.php	/^	        $ip = getenv('HTTP_CLIENT_IP');$/;"	v
+ip	.\protected\components\MyString.php	/^	        $ip = getenv('HTTP_X_FORWARDED_FOR');$/;"	v
+ip	.\protected\components\MyString.php	/^	        $ip = getenv('REMOTE_ADDR');$/;"	v
+ip	.\protected\components\MyString.php	/^	public static function ip() $/;"	f
+is	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^     * Static bool marker that indicates the class is a tag.$/;"	c
+isAdmin	.\protected\components\WebUser.php	/^	function isAdmin()$/;"	f
+isAjax	.\framework\logging\CWebLogRoute.php	/^		$isAjax=$app->getRequest()->getIsAjaxRequest();$/;"	v
+isEmpty	.\framework\validators\CValidator.php	/^	protected function isEmpty($value,$trim=false)$/;"	f
+isValid	.\framework\base\CModelEvent.php	/^	public $isValid=true;$/;"	v
+is_base64	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $is_base64 = true;$/;"	v
+is_base64	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $is_base64 = false;$/;"	v
+is_folder	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $is_folder = true;$/;"	v
+is_folder	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $is_folder = false;$/;"	v
+is_tag	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $is_tag = true;$/;"	v
+is_whitespace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->is_whitespace = ctype_space($data);$/;"	v
+is_whitespace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $is_whitespace = true;$/;"	v
+is_whitespace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $is_whitespace; \/**< Bool indicating if node is whitespace. *\/$/;"	v
+j	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    \/\/ notice we exclude $j == 0, i.e. the current ending tag, from$/;"	v
+js	.\framework\web\helpers\CGoogleApi.php	/^		$js=self::load($name,$version,$options);$/;"	v
+js	.\framework\zii\widgets\jui\CJuiAutoComplete.php	/^		$js = "jQuery('#{$id}').autocomplete($options);";$/;"	v
+js	.\framework\zii\widgets\jui\CJuiSliderInput.php	/^		$js = "jQuery('#{$id}_slider').slider($options);\\n";$/;"	v
+jsonDecode	.\framework\web\helpers\CJavaScript.php	/^	public static function jsonDecode($data,$useArray=true)$/;"	f
+k	.\framework\web\widgets\CFlexWidget.php	/^		foreach($this->flashVars as $k=>$v)$/;"	v
+k	.\protected\components\Controller.php	/^ 				foreach($row as $k=>$val)$/;"	v
+key	.\framework\base\CSecurityManager.php	/^			$key=str_pad($key, 64, chr(0));$/;"	v
+key	.\framework\base\CSecurityManager.php	/^	    $key=substr($key,0,64);$/;"	v
+key	.\framework\caching\CMemCache.php	/^			foreach($config as $key=>$value)$/;"	v
+key	.\framework\gii\views\common\generator.php	/^						$key=md5($file->path);$/;"	v
+key	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    foreach ($var as $key => $value) {$/;"	v
+key	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        foreach ($attr as $key => $value) {$/;"	v
+key	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        foreach ($tokens as $key => $token) {$/;"	v
+key	.\protected\components\Controller.php	/^ 			foreach($permission as $key=>$row)$/;"	v
+key	.\protected\components\MyString.php	/^	        foreach ($data as $key => $val) $/;"	v
+keyNames	.\framework\db\schema\sqlite\CSqliteCommandBuilder.php	/^		$keyNames=array();$/;"	v
+keys	.\framework\caching\CEAcceleratorCache.php	/^		$keys = eaccelerator_list_keys();$/;"	v
+keys	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $keys = array_keys($var);$/;"	v
+label	.\framework\zii\widgets\CBreadcrumbs.php	/^		foreach($this->links as $label=>$url)$/;"	v
+label	.\framework\zii\widgets\grid\CLinkColumn.php	/^			$label=$this->evaluateExpression($this->labelExpression,array('data'=>$data,'row'=>$row));$/;"	v
+label	.\framework\zii\widgets\grid\CLinkColumn.php	/^			$label=$this->label;$/;"	v
+lang	.\protected\components\MyLanguage.php	/^			$lang = explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);$/;"	v
+language	.\framework\i18n\CMessageSource.php	/^		$this->language=$language;$/;"	v
+layout	.\protected\controllers\LoginController.php	/^		$this->layout = false;$/;"	v
+len	.\protected\components\MyString.php	/^        $len = 0;$/;"	v
+len_opened	.\protected\components\MyString.php	/^        $len_opened = count($openedtags);$/;"	v
+length	.\protected\components\MyString.php	/^            $length = count($ar[0]);$/;"	v
+length	.\protected\components\MyString.php	/^            $length = iconv_strlen($str, $charset);$/;"	v
+length	.\protected\components\MyString.php	/^            $length = mb_strlen($str, $charset);$/;"	v
+length	.\protected\components\MyString.php	/^    public static function subHtml($html, $length=500) $/;"	v
+line	.\framework\base\CErrorEvent.php	/^		$this->line=$line;$/;"	v
+line	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->line = $line;$/;"	v
+line	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function __construct($data, $line = null, $col = null) {$/;"	v
+lines	.\framework\gii\components\Pear\Text\Diff\Engine\shell.php	/^            $lines = array(array_shift($text_lines));$/;"	v
+loadUser	.\protected\components\WebUser.php	/^	protected function loadUser($id = null)$/;"	f
+logger	.\framework\logging\CLogRouter.php	/^		$logger=Yii::getLogger();$/;"	v
+login	.\framework\gii\models\LoginForm.php	/^	public function login()$/;"	f
+login	.\protected\models\LoginForm.php	/^	public function login()$/;"	f
+login	.\protected\models\MyLoginForm.php	/^	public function login()$/;"	f
+login_state_bool	.\protected\components\UserIdentity.php	/^ 				$login_state_bool = true;$/;"	v
+login_state_bool	.\protected\components\UserIdentity.php	/^ 		$login_state_bool = false;$/;"	v
+m	.\protected\components\MyString.php	/^		        $m = substr( $date, 4, 2 );$/;"	v
+m	.\protected\components\MyString.php	/^		        $m = substr( $date, 6, 2 );$/;"	v
+make	.\framework\vendors\htmlpurifier\standalone\HTMLPurifier\ConfigSchema\Interchange\Id.php	/^    public static function make($id) {$/;"	f
+makeClickableLinks	.\protected\components\MyString.php	/^    public static function makeClickableLinks($text) $/;"	f
+makeReplace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected function makeReplace($uri, $config, $context) {$/;"	f
+max	.\framework\caching\CXCache.php	/^		for($i=0, $max=xcache_count(XC_TYPE_VAR); $i<$max; $i++)$/;"	v
+max	.\framework\logging\CProfileLogRoute.php	/^			$max=$delta;$/;"	v
+menu	.\framework\cli\views\webapp\protected\components\Controller.php	/^	public $menu=array();$/;"	v
+message	.\framework\base\CErrorEvent.php	/^		$this->message=$message;$/;"	v
+message	.\framework\i18n\CMessageSource.php	/^		$this->message=$message;$/;"	v
+message	.\framework\validators\CExistValidator.php	/^			$message=$this->message!==null?$this->message:Yii::t('yii','{attribute} "{value}" is invalid.');$/;"	v
+message	.\framework\validators\CRangeValidator.php	/^			$message=$this->message!==null?$this->message:Yii::t('yii','{attribute} is in the list.');$/;"	v
+message	.\framework\validators\CRegularExpressionValidator.php	/^			$message=$this->message!==null?$this->message:Yii::t('yii','{attribute} is invalid.');$/;"	v
+message	.\framework\validators\CStringValidator.php	/^			$message=$this->message!==null?$this->message:Yii::t('yii','{attribute} is of the wrong length (should be {length} characters).');$/;"	v
+message	.\framework\validators\CStringValidator.php	/^			$message=$this->tooLong!==null?$this->tooLong:Yii::t('yii','{attribute} is too long (maximum is {max} characters).');$/;"	v
+message	.\framework\validators\CTypeValidator.php	/^			$message=$this->message!==null?$this->message : Yii::t('yii','{attribute} must be {type}.');$/;"	v
+messages	.\framework\i18n\CDbMessageSource.php	/^		$messages=array();$/;"	v
+messages	.\framework\i18n\CGettextMessageSource.php	/^			$messages=$file->load($messageFile,$category);$/;"	v
+metas	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $metas = explode(';', $metadata);$/;"	v
+method	.\framework\validators\CInlineValidator.php	/^		$method=$this->method;$/;"	v
+method	.\framework\web\filters\CInlineFilter.php	/^		$method='filter'.$this->name;$/;"	v
+method_id	.\protected\components\Controller.php	/^ 		$method_id = Yii::app()->m_db->createCommand($sql)->queryRow();$/;"	v
+min	.\framework\logging\CProfileLogRoute.php	/^			$min=$delta;$/;"	v
+mod	.\protected\components\MyString.php	/^        $mod = $checksum % 11;$/;"	v
+model	.\framework\gii\CCodeGenerator.php	/^		$model=new $modelClass;$/;"	v
+model	.\protected\controllers\LoginController.php	/^		$model = new MyLoginForm;$/;"	v
+model	.\protected\controllers\SiteController.php	/^		$model=new ContactForm;$/;"	v
+model	.\protected\controllers\SiteController.php	/^		$model=new LoginForm;$/;"	v
+model	.\protected\models\VcosAdmin.php	/^ 	public static function model($className = __CLASS__)$/;"	f
+module	.\framework\gii\generators\controller\ControllerCode.php	/^		$module=$this->getModule();$/;"	v
+mstrlen	.\protected\components\MyString.php	/^    public static function mstrlen($str, $charset = 'UTF-8') $/;"	f
+msubstr	.\protected\components\MyString.php	/^    public static function msubstr($string, $start, $length, $dot = '', $charset = 'UTF-8') $/;"	f
+muteErrorHandler	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function muteErrorHandler($errno, $errstr) {}$/;"	f
+my_print_r	.\protected\components\MyString.php	/^    public static function my_print_r($val)$/;"	f
+my_reffer_url	.\protected\controllers\LoginController.php	/^						$my_reffer_url = $cookie['my_reffer_url']->value;$/;"	v
+myreg	.\protected\components\MyString.php	/^        $myreg = '\/^1[3|4|5|7|8][0-9]\\d{8}$\/';$/;"	v
+n	.\protected\components\MyString.php	/^            $n = $tn = $noc = 0;$/;"	v
+name	.\framework\cli\views\shell\model\model.php	/^foreach($columns as $name=>$column)$/;"	v
+name	.\framework\db\CDbCommand.php	/^		foreach($params as $name=>$value)$/;"	v
+name	.\framework\db\schema\oci\COciCommandBuilder.php	/^		foreach($values as $name=>$value)$/;"	v
+name	.\framework\gii\generators\model\templates\default\model.php	/^É˜ 6Vm*2¨elªÆº§UõÕÇ¿ˇÒã&’SÇ*á‚`¸]1ÄÉód!u∑G4ÕL∏1_s~™Ÿ|U™$™Å¥{>ŸÅ—áMSä}|)iD¨∆YÎÛÖaXy≈<ÿ2/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->name = ctype_lower($name) ? $name : strtolower($name);$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = '#PCDATA'; \/**< PCDATA tag name compatible with DTD. *\/$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = 'DisableExternal';$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = 'DisableExternalResources';$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = 'DisableResources';$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = 'HostBlacklist';$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = 'MakeAbsolute';$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name = 'Munge';$/;"	v
+name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $name;$/;"	v
+name	.\framework\web\CFormModel.php	/^				$name=$property->getName();$/;"	v
+name	.\framework\web\CHttpCookie.php	/^		$this->name=$name;$/;"	v
+name	.\framework\web\CWidgetFactory.php	/^					foreach($skins as $name=>$skin)$/;"	v
+name	.\framework\web\helpers\CHtml.php	/^			foreach($htmlOptions as $name=>$value)$/;"	v
+name	.\framework\web\services\CWebServiceAction.php	/^	 * @param mixed $provider the web service provider class name or object$/;"	c
+name	.\framework\zii\widgets\CListView.php	/^		foreach($this->sortableAttributes as $name=>$label)$/;"	v
+name	.\framework\zii\widgets\CMenu.php	/^				foreach(array_splice($item['url'],1) as $name=>$value)$/;"	v
+name	.\framework\zii\widgets\grid\CCheckBoxColumn.php	/^		$name=$options['name'];$/;"	v
+name	.\protected\components\Controller.php	/^ 		$name = $this->getAction()->getId();$/;"	v
+name	.\protected\models\ContactForm.php	/^	public $name;$/;"	v
+names	.\framework\gii\generators\model\ModelCode.php	/^		$names=preg_split('\/_+\/',$relationName,-1,PREG_SPLIT_NO_EMPTY);$/;"	v
+new	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $new = array();$/;"	v
+new_key	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $new_key = strtolower($key);$/;"	v
+new_stack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $new_stack = $this->_collapseStack($new_stack);$/;"	v
+new_stack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $new_stack = array_merge($this->basePathStack, $stack);$/;"	v
+new_tag	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $new_tag = clone $tag;$/;"	v
+new_tag	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $new_tag = clone $tag;$/;"	v
+new_token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $new_token = new HTMLPurifier_Token_End($skipped_tags[$j]->name);$/;"	v
+new_uri	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $new_uri = $this->parser->parse($new_uri);$/;"	v
+new_uri	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $new_uri = strtr($this->target, $this->replace);$/;"	v
+next	.\framework\collections\CListIterator.php	/^	public function next()$/;"	f
+next	.\framework\collections\CMapIterator.php	/^	public function next()$/;"	f
+next	.\framework\collections\CQueueIterator.php	/^	public function next()$/;"	f
+next	.\framework\collections\CStackIterator.php	/^	public function next()$/;"	f
+next	.\framework\web\CHttpSessionIterator.php	/^	public function next()$/;"	f
+nvar	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $nvar = array();$/;"	v
+object	.\framework\web\services\CWebService.php	/^		$this->object=$object;$/;"	v
+of	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^ * Abstract class of a tag token (start, end or empty), and its behavior.$/;"	c
+offsetSet	.\framework\caching\CDummyCache.php	/^	public function offsetSet($id, $value)$/;"	f
+offsetSet	.\framework\web\CHttpSession.php	/^	public function offsetSet($offset,$item)$/;"	f
+offsetUnset	.\framework\base\CModel.php	/^	public function offsetUnset($offset)$/;"	f
+offsetUnset	.\framework\caching\CCache.php	/^	public function offsetUnset($id)$/;"	f
+offsetUnset	.\framework\caching\CDummyCache.php	/^	public function offsetUnset($id)$/;"	f
+offsetUnset	.\framework\collections\CList.php	/^	public function offsetUnset($offset)$/;"	f
+offsetUnset	.\framework\collections\CMap.php	/^	public function offsetUnset($offset)$/;"	f
+offsetUnset	.\framework\web\CHttpSession.php	/^	public function offsetUnset($offset)$/;"	f
+offsetUnset	.\framework\web\form\CForm.php	/^	public function offsetUnset($offset)$/;"	f
+ok	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                                $ok = false;$/;"	v
+ok	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $ok = true;$/;"	v
+ok	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $ok = true;$/;"	v
+old	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $old = array_splice($this->tokens, $this->t, $delete, $token);$/;"	v
+oldskip	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $oldskip = isset($old[0]) ? $old[0]->skip : array();$/;"	v
+onFlush	.\framework\logging\CLogger.php	/^	public function onFlush($event)$/;"	f
+onclick	.\framework\zii\widgets\jui\CJuiButton.php	/^				$this->onclick='js:'.$this->onclick;$/;"	v
+op	.\protected\components\OperatorFuncs.php	/^            $op = $rules->op;$/;"	v
+openedtags	.\protected\components\MyString.php	/^        $openedtags = $result[1];$/;"	v
+openedtags	.\protected\components\MyString.php	/^        $openedtags = array_reverse($openedtags);$/;"	v
+options	.\framework\web\widgets\CMaskedTextField.php	/^		$options=array();$/;"	v
+options	.\framework\web\widgets\CMultiFileUpload.php	/^		$options=$mfOptions===array()?'':CJavaScript::encode($mfOptions);$/;"	v
+options	.\framework\zii\widgets\grid\CCheckBoxColumn.php	/^		$options=$this->checkBoxHtmlOptions;$/;"	v
+options	.\framework\zii\widgets\grid\CLinkColumn.php	/^		$options=$this->linkHtmlOptions;$/;"	v
+orig	.\framework\gii\components\Pear\Text\Diff.php	/^        $this->orig = $orig;$/;"	v
+orig	.\framework\gii\components\Pear\Text\Diff3.php	/^        $this->orig = $this->final1 = $this->final2 = array();$/;"	v
+orig	.\framework\gii\components\Pear\Text\Diff\ThreeWay.php	/^        $this->orig = $this->final1 = $this->final2 = array();$/;"	v
+original_name	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $original_name = $token->name;$/;"	v
+ourHostParts	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        if ($our_host !== null) $this->ourHostParts = array_reverse(explode('.', $our_host));$/;"	v
+ourHostParts	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $ourHostParts = false;$/;"	v
+our_host	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $our_host = $config->getDefinition('URI')->host;$/;"	v
+output	.\framework\web\CController.php	/^		$output=str_replace(CHtml::pageStateField(''),CHtml::pageStateField($value),$output);$/;"	v
+output	.\framework\web\COutputEvent.php	/^		$this->output=$output;$/;"	v
+output	.\framework\web\COutputEvent.php	/^	public $output;$/;"	v
+output	.\protected\components\MyString.php	/^	public static function array_iconv($data, $output = 'UTF-8') $/;"	v
+pageTag	.\protected\components\Controller.php	/^ 	public $pageTag = 'index';$/;"	v
+pageTitle	.\protected\views\site\contact.php	/^$this->pageTitle=Yii::app()->name . ' - Contact Us';$/;"	v
+pageTitle	.\protected\views\site\error.php	/^$this->pageTitle=Yii::app()->name . ' - Error';$/;"	v
+pageTitle	.\protected\views\site\index.php	/^<?php $this->pageTitle=Yii::app()->name; ?>$/;"	v
+pageTitle	.\protected\views\site\login.php	/^$this->pageTitle=Yii::app()->name . ' - Login';$/;"	v
+pageTitle	.\protected\views\site\pages\about.php	/^$this->pageTitle=Yii::app()->name . ' - About';$/;"	v
+params	.\framework\db\schema\CDbExpression.php	/^		$this->params=$params;$/;"	v
+params	.\framework\web\widgets\CFlexWidget.php	/^		$params=array();$/;"	v
+parent	.\framework\web\CWebModule.php	/^			$parent=Yii::app();$/;"	v
+parseImplementation	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected function parseImplementation($var, $type, $allow_null) {$/;"	f
+parser	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->parser    = new HTMLPurifier_URIParser();$/;"	v
+password	.\protected\components\UserIdentity.php	/^ 			if('888888' == $admin_password && $this->password == $admin_password)$/;"	v
+password	.\protected\models\LoginForm.php	/^	public $password;$/;"	v
+password	.\protected\models\MyLoginForm.php	/^	public $password;$/;"	v
+performAjaxValidation	.\framework\gii\generators\crud\templates\default\controller.php	/^	protected function performAjaxValidation($model)$/;"	f
+permission	.\protected\components\Controller.php	/^ 			$permission = json_decode($permission['permission_menu'],true);$/;"	v
+permission	.\protected\components\Controller.php	/^ 		$permission = Yii::app()->m_db->createCommand($sql)->queryRow();$/;"	v
+pk	.\framework\db\ar\CActiveFinder.php	/^ﬁ∆Æπeach($records as $pk=>$record)$/;"	v
+pluralize	.\framework\console\CConsoleCommand.php	/^	public function pluralize($name)$/;"	f
+post	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $post = true;$/;"	v
+postFilter	.\framework\web\filters\CFilter.php	/^	protected function postFilter($filterChain)$/;"	f
+prepare	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function prepare($config) {$/;"	f
+prepend_style	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $prepend_style = '';$/;"	v
+proc	.\framework\views\lt\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\lv\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\nl\profile-callstack.php	/^    $proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\pl\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\pt\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\pt_br\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\ru\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\sv\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\uk\profile-callstack.php	/^	$proc=CHtml::encode($proc);$/;"	v
+proc	.\framework\views\zh_cn\profile-callstack.php	/^	$proc = CHtml::encode ( $proc );$/;"	v
+processLogs	.\framework\logging\CLogRoute.php	/^	abstract protected function processLogs($logs);$/;"	f
+processLogs	.\framework\logging\CLogRouter.php	/^	public function processLogs($event)$/;"	f
+processToken	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected function processToken($token, $injector = -1) {$/;"	f
+r	.\protected\components\MyString.php	/^        	$r = '';$/;"	v
+r	.\protected\components\MyString.php	/^        $r = curl_exec($ch);$/;"	v
+raw_data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $raw_data = $data;$/;"	v
+raw_data	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $raw_data = base64_decode($data);$/;"	v
+real_content_type	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $real_content_type = image_type_to_mime_type($image_code);$/;"	v
+recordCachingAction	.\framework\web\CClientScript.php	/^	protected function recordCachingAction($context,$method,$params)$/;"	f
+reffer_url	.\protected\controllers\LoginController.php	/^		$reffer_url = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '';$/;"	v
+register	.\framework\web\helpers\CGoogleApi.php	/^	public static function register($name,$version='1',$options=array(),$apiKey=null)$/;"	f
+registerCssFile	.\framework\web\widgets\pagers\CLinkPager.php	/^	public static function registerCssFile($url=null)$/;"	f
+relationName	.\framework\gii\generators\model\ModelCode.php	/^			$relationName=$rawName.($i++);$/;"	v
+relations	.\protected\models\VcosAdmin.php	/^	public function relations()$/;"	f
+rememberMe	.\protected\models\LoginForm.php	/^	public $rememberMe;$/;"	v
+rememberMe	.\protected\models\MyLoginForm.php	/^	public $rememberMe;$/;"	v
+remove	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    private function remove() {$/;"	f
+remove	.\framework\web\form\CFormElementCollection.php	/^	public function remove($key)$/;"	f
+removeRelation	.\framework\db\ar\CActiveRecord.php	/^	public function removeRelation($name)$/;"	f
+remove_invalid_img	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $remove_invalid_img  = $config->get('Core.RemoveInvalidImg');$/;"	v
+remove_until	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                            $remove_until = $token->name;$/;"	v
+remove_until	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                            $remove_until = false;$/;"	v
+remove_until	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $remove_until = false;$/;"	v
+render	.\framework\web\widgets\CWidget.php	/^	public function render($view,$data=null,$return=false)$/;"	f
+renderContent	.\framework\zii\widgets\CPortlet.php	/^	protected function renderContent()$/;"	f
+renderDataCellContent	.\framework\zii\widgets\grid\CGridColumn.php	/^	protected function renderDataCellContent($row,$data)$/;"	f
+renderFilterCellContent	.\framework\zii\widgets\grid\CGridColumn.php	/^	protected function renderFilterCellContent()$/;"	f
+renderItems	.\framework\zii\widgets\CBaseListView.php	/^	abstract public function renderItems();$/;"	f
+replace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $replace = array($token);$/;"	v
+replace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->replace = array_map('rawurlencode', $this->replace);$/;"	v
+replace	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $replace = array();$/;"	v
+reprocess	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $reprocess = true;$/;"	v
+reprocess	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $reprocess = true;$/;"	v
+reprocess	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $reprocess = true;$/;"	v
+reprocess	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $reprocess = true;$/;"	v
+res_str	.\protected\components\OperatorFuncs.php	/^            $res_str = ' AND ('.$res_str.')';$/;"	v
+res_str	.\protected\components\OperatorFuncs.php	/^        $res_str = join(' '.$groupOp.' ', $res_value_array);$/;"	v
+res_value_array	.\protected\components\OperatorFuncs.php	/^        $res_value_array = array();$/;"	v
+result	.\framework\db\schema\CDbCriteria.php	/^		$result=array();$/;"	v
+result	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $result = array();$/;"	v
+result	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $result = eval("\\$var = $expr;");$/;"	v
+result	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $result = explode(',', $uri->path, 2);$/;"	v
+result	.\protected\components\Controller.php	/^ 			$result = Yii::app()->m_db->createCommand($sql)->queryRow();$/;"	v
+result	.\protected\components\Controller.php	/^ 		$result = VcosGoodsOrder::model()->count("id_read=:num",array(':num'=>'0'));$/;"	v
+result	.\protected\components\Controller.php	/^ 		$result = VcosLifeserviceBooking::model()->count("id_read=:num",array(':num'=>'0'));$/;"	v
+result	.\protected\components\Helper.php	/^		$result = '';$/;"	v
+result	.\protected\components\Helper.php	/^		$result = htmlspecialchars($result,ENT_QUOTES,'UTF-8');$/;"	v
+result	.\protected\components\MyString.php	/^        $result = '';$/;"	v
+reverse	.\framework\gii\components\Pear\Text\Diff.php	/^        $reverse = new Text_Diff_Op_change($this->final, $this->orig);$/;"	v
+reverse	.\framework\gii\components\Pear\Text\Diff.php	/^    function &reverse()$/;"	f
+rollBack	.\framework\db\schema\mssql\CMssqlPdoAdapter.php	/^	public function rollBack ()$/;"	f
+rule	.\framework\console\CConsoleCommand.php	/^		foreach($rules as $rule=>$replacement)$/;"	v
+rules	.\framework\console\CConsoleCommand.php	/^		$rules=array($/;"	v
+rules	.\protected\models\ContactForm.php	/^	public function rules()$/;"	f
+rules	.\protected\models\LoginForm.php	/^	public function rules()$/;"	f
+rules	.\protected\models\MyLoginForm.php	/^	public function rules()$/;"	f
+rules	.\protected\models\VcosAdmin.php	/^	public function rules()$/;"	f
+rules_array	.\protected\components\OperatorFuncs.php	/^        $rules_array = $filters_object->rules;$/;"	v
+run	.\framework\web\widgets\CClipWidget.php	/^	public function run()$/;"	f
+run	.\framework\zii\widgets\jui\CJuiDialog.php	/^	public function run()$/;"	f
+run	.\framework\zii\widgets\jui\CJuiDraggable.php	/^	public function run(){$/;"	f
+run	.\framework\zii\widgets\jui\CJuiDroppable.php	/^	public function run(){$/;"	f
+s	.\themes\ace\assets\js\artDialog4.1.7\_doc\demo.js	/^var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);$/;"	v
+save	.\framework\base\CStatePersister.php	/^	public function save($state)$/;"	f
+save	.\framework\i18n\gettext\CGettextFile.php	/^	abstract public function save($file,$messages);$/;"	f
+saveDataAsJson	.\framework\web\widgets\CTreeView.php	/^	public static function saveDataAsJson($data)$/;"	f
+schemaName	.\framework\db\schema\mssql\CMssqlTableSchema.php	/^	public $schemaName;$/;"	v
+schemaName	.\framework\db\schema\mysql\CMysqlTableSchema.php	/^	public $schemaName;$/;"	v
+schemaName	.\framework\db\schema\oci\COciTableSchema.php	/^	public $schemaName;$/;"	v
+schemaName	.\framework\db\schema\pgsql\CPgsqlTableSchema.php	/^	public $schemaName;$/;"	v
+scheme_obj	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $scheme_obj = $uri->getSchemeObj($config, $context);$/;"	v
+scheme_obj	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $scheme_obj = $uri->getSchemeObj($config, $context);$/;"	v
+search	.\protected\models\VcosAdmin.php	/^	public function search()$/;"	f
+secretKey	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->secretKey = $config->get('URI.MungeSecretKey');$/;"	v
+segment	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $segment = array_pop($result);$/;"	v
+semicolon_pos	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $semicolon_pos = strrpos($uri->path, ';'); \/\/ reverse$/;"	v
+server_name	.\protected\controllers\LoginController.php	/^		$server_name = isset($_SERVER['SERVER_NAME']) ? $_SERVER['SERVER_NAME'] : '' ;$/;"	v
+setActive	.\framework\db\CDbTransaction.php	/^	protected function setActive($value)$/;"	f
+setCurrentPage	.\framework\web\widgets\pagers\CBasePager.php	/^	public function setCurrentPage($value)$/;"	f
+setFormatter	.\framework\zii\widgets\CDetailView.php	/^	public function setFormatter($value)$/;"	f
+setFormatter	.\framework\zii\widgets\grid\CGridView.php	/^	public function setFormatter($value)$/;"	f
+setHeaders	.\framework\logging\CEmailLogRoute.php	/^	public function setHeaders($value)$/;"	f
+setLanguage	.\protected\components\MyLanguage.php	/^	public static function setLanguage()$/;"	f
+setOnEmpty	.\framework\validators\CDefaultValueValidator.php	/^	public $setOnEmpty=true;$/;"	v
+setOperator	.\protected\components\OperatorFuncs.php	/^    public static function setOperator($filters_object)$/;"	f
+setTotalItemCount	.\framework\web\CDataProvider.php	/^	public function setTotalItemCount($value)$/;"	f
+setUp	.\framework\cli\views\webapp\protected\tests\WebTestCase.php	/^	protected function setUp()$/;"	f
+setUp	.\framework\test\CDbTestCase.php	/^	protected function setUp()$/;"	f
+setUp	.\protected\tests\WebTestCase.php	/^	protected function setUp()$/;"	f
+setViewPath	.\framework\web\CExtController.php	/^	public function setViewPath($value)$/;"	f
+setauth	.\protected\components\Controller.php	/^ 	public function setauth()$/;"	f
+setmyaction	.\protected\components\Controller.php	/^ 	private function setmyaction()$/;"	f
+show_message	.\protected\components\Helper.php	/^	public static function show_message($info,$url='')$/;"	f
+size	.\framework\db\schema\mysql\CMysqlColumnSchema.php	/^					$size=$n;$/;"	v
+size	.\framework\db\schema\mysql\CMysqlColumnSchema.php	/^			$size = 0;$/;"	v
+size	.\framework\db\schema\mysql\CMysqlColumnSchema.php	/^			$this->size = $this->precision = $size-2;$/;"	v
+size	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                $size = (int) $attr['size'];$/;"	v
+size	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $size = count($this->stack);$/;"	v
+size	.\protected\components\Helper.php	/^		$size = $allow_size * 1024 * 1024;$/;"	v
+skinFile	.\framework\web\CWidgetFactory.php	/^				$skinFile=$theme->getSkinPath().DIRECTORY_SEPARATOR.$className.'.php';$/;"	v
+skins	.\framework\web\CWidgetFactory.php	/^					$skins=require($skinFile);$/;"	v
+skipped_tags	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $skipped_tags = array_slice($this->stack, $j);$/;"	v
+skipped_tags	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $skipped_tags = false;$/;"	v
+soapAddress	.\framework\web\services\CWsdlGenerator.php	/^		$soapAddress=$dom->createElement('soap:address');$/;"	v
+sort	.\framework\zii\widgets\CListView.php	/^		$sort=$this->dataProvider->getSort();$/;"	v
+source	.\framework\cli\commands\shell\ControllerCommand.php	/^			$source=YII_PATH.'\/cli\/views\/shell\/controller\/'.basename($source);$/;"	v
+spaces	.\framework\views\ko\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\lt\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\lv\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\nl\profile-callstack.php	/^    $spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\no\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\pl\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\pt\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\pt_br\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\ro\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\ru\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\sk\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\sv\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\uk\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\vi\profile-callstack.php	/^	$spaces=str_repeat('&nbsp;',$level*8);$/;"	v
+spaces	.\framework\views\zh_cn\profile-callstack.php	/^	$spaces = str_repeat ( '&nbsp;', $level * 8 );$/;"	v
+sql	.\framework\db\schema\mssql\CMssqlSchema.php	/^		$sql='ALTER TABLE ' . $this->quoteTableName($table) . ' ALTER COLUMN '$/;"	v
+sql	.\framework\web\CDbHttpSession.php	/^		$sql="DELETE FROM {$this->sessionTableName} WHERE expire<".time();$/;"	v
+sql	.\protected\components\Controller.php	/^ 			$sql = "SELECT * FROM vcos_admin WHERE admin_id = {$admin_id}";$/;"	v
+sql	.\protected\components\Controller.php	/^ 		$sql = "SELECT b.permission_menu FROM vcos_admin a,vcos_admin_role b WHERE b.role_id = a.role_id AND a.admin_id = {$admin_id} ";$/;"	v
+sql	.\protected\components\Controller.php	/^ 		$sql = "SELECT menu_id FROM vcos_permission_menux WHERE method_name = '{$name}'" ;$/;"	v
+sql_value	.\protected\components\UserIdentity.php	/^ 		$sql_value = 'SELECT * FROM `vcos_admin` WHERE '.$where_name.'  LIMIT 1';$/;"	v
+stack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $stack = explode('\/', $uri->path);$/;"	v
+stack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $stack = $this->_collapseStack($stack); \/\/ do pre-parsing$/;"	v
+stack	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $stack = explode('\/', $this->base->path);$/;"	v
+start	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $start;$/;"	v
+str	.\protected\components\MyString.php	/^                    $str = self::msubstr($tag, 0, $length - $len + 1);$/;"	v
+str_htm_value	.\protected\components\MyString.php	/^		$str_htm_value = '';$/;"	v
+strcut	.\protected\components\MyString.php	/^            $strcut = substr($string, 0, $n);$/;"	v
+string	.\framework\gii\components\Pear\Text\Diff\Renderer\inline.php	/^        $string = htmlspecialchars($string);$/;"	v
+string	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $string = $uri->toString();$/;"	v
+string	.\protected\components\Helper.php	/^		$string = html_entity_decode(trim(strip_tags($string)),ENT_QUOTES,'UTF-8');$/;"	v
+string	.\protected\components\MyString.php	/^        $string = str_replace(array('&', '"', '<', '>', ' '), array('&', '"', '<', '>', ' '), $string);$/;"	v
+strlen	.\protected\components\Helper.php	/^		$strlen = strlen($string);$/;"	v
+style	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->style = $style;$/;"	v
+style	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    protected $style;$/;"	v
+style	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function __construct($transform_to, $style = null) {$/;"	v
+subHtml	.\protected\components\MyString.php	/^    public static function subHtml($html, $length=500) $/;"	f
+subject	.\protected\models\ContactForm.php	/^	public $subject;$/;"	v
+submitHandler	.\themes\ace\views\login\login.php	/^                    submitHandler: function (form) {$/;"	j
+success	.\themes\ace\views\login\login.php	/^                    success: function (e) {$/;"	j
+swap	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    private function swap($token) {$/;"	f
+t	.\protected\components\MyString.php	/^                $t = ord($string[$n]);$/;"	v
+t	.\protected\components\MyString.php	/^                elseif ($t == 252 || $t == 253) $/;"	v
+t	.\protected\components\MyString.php	/^                if ($t == 9 || $t == 10 || (32 <= $t && $t <= 126)) $/;"	v
+tableName	.\framework\cli\commands\shell\ModelCommand.php	/^				$tableName='{{'.$tableName.'}}';$/;"	v
+tableName	.\framework\cli\commands\shell\ModelCommand.php	/^			$tableName=$tablePrefix.$tableName;$/;"	v
+tableName	.\framework\cli\commands\shell\ModelCommand.php	/^			$tableName=substr($tableName,strlen($tablePrefix));$/;"	v
+tableName	.\framework\db\schema\mysql\CMysqlCommandBuilder.php	/^			$tableName=substr($sql,12);$/;"	v
+tableName	.\protected\models\VcosAdmin.php	/^ 	public function tableName()$/;"	f
+tablePrefix	.\framework\cli\commands\shell\ModelCommand.php	/^		$tablePrefix=Yii::app()->getDb()->tablePrefix;$/;"	v
+tagStack	.\protected\components\MyString.php	/^        $tagStack = array();$/;"	v
+target	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->target    = $config->get('URI.' . $this->name);$/;"	v
+tbl_user	.\protected\data\schema.mysql.sql	/^CREATE TABLE tbl_user ($/;"	t
+tbl_user	.\protected\data\schema.sqlite.sql	/^CREATE TABLE tbl_user ($/;"	t
+tbl_user.email	.\protected\data\schema.mysql.sql	/^    email VARCHAR(128) NOT NULL$/;"	F
+tbl_user.email	.\protected\data\schema.sqlite.sql	/^    email VARCHAR(128) NOT NULL$/;"	F
+tbl_user.id	.\protected\data\schema.mysql.sql	/^    id INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,$/;"	F
+tbl_user.id	.\protected\data\schema.sqlite.sql	/^    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,$/;"	F
+tbl_user.password	.\protected\data\schema.mysql.sql	/^    password VARCHAR(128) NOT NULL,$/;"	F
+tbl_user.password	.\protected\data\schema.sqlite.sql	/^    password VARCHAR(128) NOT NULL,$/;"	F
+tbl_user.username	.\protected\data\schema.mysql.sql	/^    username VARCHAR(128) NOT NULL,$/;"	F
+tbl_user.username	.\protected\data\schema.sqlite.sql	/^    username VARCHAR(128) NOT NULL,$/;"	F
+temp_lang	.\protected\components\MyLanguage.php	/^			$temp_lang = $cookies['my_language']->value;$/;"	v
+temp_str	.\protected\components\MyString.php	/^		$temp_str = explode("\\n", $str);$/;"	v
+testAdmin	.\framework\cli\views\shell\crud\test.php	/^	public function testAdmin()$/;"	f
+testContact	.\protected\tests\functional\SiteTest.php	/^	public function testContact()$/;"	f
+testCreate	.\framework\cli\views\shell\crud\test.php	/^	public function testCreate()$/;"	f
+testDelete	.\framework\cli\views\shell\crud\test.php	/^	public function testDelete()$/;"	f
+testIndex	.\protected\tests\functional\SiteTest.php	/^	public function testIndex()$/;"	f
+testList	.\framework\cli\views\shell\crud\test.php	/^	public function testList()$/;"	f
+testLoginLogout	.\protected\tests\functional\SiteTest.php	/^	public function testLoginLogout()$/;"	f
+testUpdate	.\framework\cli\views\shell\crud\test.php	/^	public function testUpdate()$/;"	f
+text	.\protected\components\MyString.php	/^        $text = eregi_replace('(((f|ht){1}tp:\/\/)[-a-zA-Z0-9@:%_+.~#?&\/\/=]+)', '<a href="\\1">\\1<\/a>', $text);$/;"	v
+text	.\protected\components\MyString.php	/^        $text = eregi_replace('([[:space:]()[{}])(www.[-a-zA-Z0-9@:%_+.~#?&\/\/=]+)','\\1<a href="http:\/\/\\2">\\2<\/a>', $text);$/;"	v
+text	.\protected\components\MyString.php	/^        $text = eregi_replace('([_.0-9a-z-]+@([0-9a-z][0-9a-z-]+.)+[a-z]{2,3})', '<a href="mailto:\\1">\\1<\/a>', $text);$/;"	v
+textify_comments	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $textify_comments = $token->name;$/;"	v
+textify_comments	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $textify_comments = false;$/;"	v
+textify_comments	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $textify_comments = false;$/;"	v
+that	.\framework\gii\generators\crud\views\index.php	/^			This is the class that the new CRUD controller class will extend from.$/;"	c
+that	.\protected\components\WebUser.php	/^	\/\/This is a function that checks the field 'role'$/;"	f
+theme_url	.\themes\ace\views\login\login.php	/^            $theme_url = Yii::app()->theme->baseUrl;$/;"	v
+time	.\framework\views\ko\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\lt\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\lv\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\nl\profile-callstack.php	/^    $time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\no\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\pl\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\pt\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\pt_br\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\ro\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\ru\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\sk\log.php	/^	$time=date('H:i:s.',$log[3]).(int)(($log[3]-(int)$log[3])*1000000);$/;"	v
+time	.\framework\views\sk\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\sv\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\uk\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\vi\profile-callstack.php	/^	$time=sprintf('%0.5f',$time);$/;"	v
+time	.\framework\views\zh_cn\profile-callstack.php	/^	$time = sprintf ( '%0.5f', $time );$/;"	v
+tn	.\protected\components\MyString.php	/^                    $tn = 1;$/;"	v
+tn	.\protected\components\MyString.php	/^                    $tn = 2;$/;"	v
+tn	.\protected\components\MyString.php	/^                    $tn = 3;$/;"	v
+tn	.\protected\components\MyString.php	/^                    $tn = 4;$/;"	v
+tn	.\protected\components\MyString.php	/^                    $tn = 5;$/;"	v
+tn	.\protected\components\MyString.php	/^                    $tn = 6;$/;"	v
+toArray	.\framework\db\schema\CDbCriteria.php	/^	public function toArray()$/;"	f
+toArray	.\themes\ace\assets\js\dialogs\spechars\spechars.js	/^function toArray(str) {$/;"	f
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $token = $definition->$/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $token = new HTMLPurifier_Token_Text($/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $token = new HTMLPurifier_Token_Text($data);$/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $token = $context->get('CurrentToken', true);$/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $token = false;$/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        if ($token === false)  $token = array(1);$/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        if (is_int($token))    $token = array($token);$/;"	v
+token	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        if (is_object($token)) $token = array(1, $token);$/;"	v
+transform	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function transform($tag, $config, $context) {$/;"	f
+transform_to	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $this->transform_to = $transform_to;$/;"	v
+transform_to	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public $transform_to = 'span';$/;"	v
+truncate_utf8_string	.\protected\components\Helper.php	/^	public static function truncate_utf8_string($string,$length,$etc= '...')$/;"	f
+trusted	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $trusted = $config->get('HTML.Trusted');$/;"	v
+type	.\framework\db\schema\mssql\CMssqlSchema.php	/^		$type=$this->getColumnType($type);$/;"	v
+type	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $type = substr($uri->path, $semicolon_pos + 1); \/\/ no semicolon$/;"	v
+type_ret	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $type_ret = ";type=$typecode";$/;"	v
+type_ret	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $type_ret = '';$/;"	v
+typecode	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                } elseif ($typecode === 'a' || $typecode === 'i' || $typecode === 'd') {$/;"	v
+uni	.\framework\web\helpers\CJSON.php	/^		$uni = unpack('n*',$str);$/;"	v
+up	.\framework\cli\commands\MigrateCommand.php	/^    public function up()$/;"	f
+upload_file	.\protected\components\Helper.php	/^	public static function upload_file($input_name,$file_path='.\/',$type='image',$allow_size=2)$/;"	f
+uri	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^            $uri = clone $this->base;$/;"	v
+uri	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $uri = $new_uri; \/\/ overwrite$/;"	v
+url	.\framework\web\helpers\CGoogleApi.php	/^		$url=$apiKey===null?self::$bootstrapUrl:self::$bootstrapUrl.'?key='.$apiKey;$/;"	v
+url	.\framework\web\widgets\pagers\CLinkPager.php	/^			$url=CHtml::asset(Yii::getPathOfAlias('system.web.widgets.pagers.pager').'.css');$/;"	v
+user	.\protected\components\WebUser.php	/^		$user = $this->loadUser(Yii::app()->user->id);$/;"	v
+username	.\protected\models\LoginForm.php	/^	public $username;$/;"	v
+username	.\protected\models\MyLoginForm.php	/^	public $username;$/;"	v
+users	.\framework\cli\views\webapp\protected\components\UserIdentity.php	/^		$users=array($/;"	v
+utf16beToUTF8	.\framework\web\helpers\CJSON.php	/^	protected static function utf16beToUTF8(&$str)$/;"	f
+valid	.\framework\collections\CListIterator.php	/^	public function valid()$/;"	f
+valid	.\framework\collections\CMapIterator.php	/^	public function valid()$/;"	f
+valid	.\framework\collections\CQueueIterator.php	/^	public function valid()$/;"	f
+valid	.\framework\collections\CStackIterator.php	/^	public function valid()$/;"	f
+valid	.\framework\db\CDbDataReader.php	/^	public function valid()$/;"	f
+valid	.\framework\validators\CEmailValidator.php	/^			$valid=checkdnsrr($domain,'MX');$/;"	v
+valid	.\framework\validators\CEmailValidator.php	/^			$valid=fsockopen($domain,25)!==false;$/;"	v
+valid	.\framework\validators\CTypeValidator.php	/^			$valid=is_array($value);$/;"	v
+valid	.\framework\web\CHttpSessionIterator.php	/^	public function valid()$/;"	f
+validate	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^    public function validate(&$uri, $config, $context) {$/;"	f
+validateAttribute	.\framework\validators\CDefaultValueValidator.php	/^	protected function validateAttribute($object,$attribute)$/;"	f
+validateAttribute	.\framework\validators\CSafeValidator.php	/^	protected function validateAttribute($object,$attribute)$/;"	f
+validateDate	.\protected\components\MyString.php	/^	public static function validateDate($date, $format='YYYYMMDD')$/;"	f
+validateDirectory	.\framework\caching\dependencies\CDirectoryCacheDependency.php	/^	protected function validateDirectory($directory)$/;"	f
+validateMobile	.\protected\components\MyString.php	/^    public static function validateMobile($mobilephone)$/;"	f
+validateValue	.\framework\validators\CUrlValidator.php	/^	public function validateValue($value)$/;"	f
+validator	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $validator = new HTMLPurifier_AttrValidator();$/;"	v
+value	.\framework\gii\CCodeModel.php	/^		$value=$this->$attribute;$/;"	v
+value	.\framework\validators\CDefaultValueValidator.php	/^			$value=$object->$attribute;$/;"	v
+value	.\framework\validators\CDefaultValueValidator.php	/^			if($value===null || $value==='')$/;"	v
+value	.\framework\validators\CValidator.php	/^		return $value===null || $value===array() || $value==='' || $trim && is_scalar($value) && trim($value)==='';$/;"	v
+value	.\framework\web\CController.php	/^		$value=base64_encode($data);$/;"	v
+value	.\framework\web\CHttpCookie.php	/^		$this->value=$value;$/;"	v
+value	.\framework\zii\widgets\grid\CDataColumn.php	/^			$value=CHtml::value($data,$this->name);$/;"	v
+value	.\framework\zii\widgets\grid\CDataColumn.php	/^		echo $value===null ? $this->grid->nullDisplay : $this->grid->getFormatter()->format($value,$this->type);$/;"	v
+values	.\framework\db\schema\mysql\CMysqlColumnSchema.php	/^			$values = explode(',', $matches[1]);$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $var = $nvar;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $var = explode(',',$var);$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $var = false;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $var = preg_split('\/(,|[\\n\\r]+)\/', $var);$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                        $var = true;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    $var = (bool) $var;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    if ($var == 'on' || $var == 'true' || $var == '1') {$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                    } elseif ($var == 'off' || $var == 'false' || $var == '0') {$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                if ((is_string($var) && is_numeric($var)) || is_int($var)) $var = (float) $var;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                if (is_int($var) && ($var === 0 || $var === 1)) {$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^                if (is_string($var) && ctype_digit($var)) $var = (int) $var;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        $var = null;$/;"	v
+var	.\framework\vendors\htmlpurifier\HTMLPurifier.standalone.php	/^        if ($allow_null && $var === null) return null;$/;"	v
+verifyCode	.\protected\models\ContactForm.php	/^	public $verifyCode;$/;"	v
+verify_number	.\protected\components\MyString.php	/^        $verify_number = $verify_number_list[$mod];$/;"	v
+verify_number_list	.\protected\components\MyString.php	/^        $verify_number_list = array('1', '0', 'X', '9', '8', '7', '6', '5', '4', '3', '2');$/;"	v
+viewFile	.\framework\logging\CWebLogRoute.php	/^		$viewFile=YII_PATH.DIRECTORY_SEPARATOR.'views'.DIRECTORY_SEPARATOR.$view.'.php';$/;"	v
+vs	.\framework\db\schema\sqlite\CSqliteCommandBuilder.php	/^		$vs=array();$/;"	v
+where_name	.\protected\components\UserIdentity.php	/^ 		$where_name = 'admin_name = \\''.$this->username.'\\'';$/;"	v
+x	.\framework\web\widgets\captcha\CCaptchaAction.php	/^			$x = $box[2] - $offset;$/;"	v
+y	.\protected\components\MyString.php	/^		        $y = substr( $date, 0, 4 );$/;"	v
+yiic	.\protected\yiic.php	/^$yiic=dirname(__FILE__).'\/..\/..\/yiic.php';$/;"	v
+yiit	.\protected\tests\bootstrap.php	/^$yiit=dirname(__FILE__).'\/..\/..\/..\/yiit.php';$/;"	v
+ëo¿IÃ∏¬˛ÆÀÕœÅ	.\framework\db\ar\CActiveRecord.php	/^‘,ö∏‹*S≠/;"	v
+õ	.\framework\cli\commands\shell\CrudCommand.php	/^oGŒB9zK˘1L™a-˜YUJ¥Ôª–3¬Á∞Ó¢≥œèt`ÀõPfÑˆ‡ÿNı(∆ÿ¨∏ëp‘\\êËû\/}}lï^r¿FW5¢|gNÔ√ŒOàt™ùÂ‚B™⁄◊jV>Ø‹qÿG ï/;"	v
+£	.\framework\messages\ja\yii.php	/^âˇÏß0ú*0úÚ«m∏˘ÌõÊP“Dx8,‘·&$/;"	v
+∆	.\framework\validators\CEmailValidator.php	/^:7wy3—´ú^˝]_˜c˚ä“æX/;"	v
